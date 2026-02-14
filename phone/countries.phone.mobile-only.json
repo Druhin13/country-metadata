@@ -1,0 +1,3526 @@
+{
+  "countryList": [
+    {
+      "emoji": "🇦🇫",
+      "name": "Afghanistan",
+      "code": "AF",
+      "phoneCountryCode": "+93",
+      "phoneMeta": {
+        "countryCallingCode": "+93",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "701234567",
+          "exampleInternational": "+93 701234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇦🇱",
+      "name": "Albania",
+      "code": "AL",
+      "phoneCountryCode": "+355",
+      "phoneMeta": {
+        "countryCallingCode": "+355",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "672123456",
+          "exampleInternational": "+355 672123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇩🇿",
+      "name": "Algeria",
+      "code": "DZ",
+      "phoneCountryCode": "+213",
+      "phoneMeta": {
+        "countryCallingCode": "+213",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "551234567",
+          "exampleInternational": "+213 551234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇦🇩",
+      "name": "Andorra",
+      "code": "AD",
+      "phoneCountryCode": "+376",
+      "phoneMeta": {
+        "countryCallingCode": "+376",
+        "mobile": {
+          "possibleLengths": [
+            6,
+            9
+          ],
+          "minLength": 6,
+          "maxLength": 9,
+          "exampleNational": "312345",
+          "exampleInternational": "+376 312345"
+        }
+      }
+    },
+    {
+      "emoji": "🇦🇴",
+      "name": "Angola",
+      "code": "AO",
+      "phoneCountryCode": "+244",
+      "phoneMeta": {
+        "countryCallingCode": "+244",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "923123456",
+          "exampleInternational": "+244 923123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇦🇬",
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "2684641234",
+          "exampleInternational": "+1 2684641234"
+        }
+      }
+    },
+    {
+      "emoji": "🇦🇷",
+      "name": "Argentina",
+      "code": "AR",
+      "phoneCountryCode": "+54",
+      "phoneMeta": {
+        "countryCallingCode": "+54",
+        "mobile": {
+          "possibleLengths": [
+            10,
+            11
+          ],
+          "minLength": 10,
+          "maxLength": 11,
+          "exampleNational": "91123456789",
+          "exampleInternational": "+54 91123456789"
+        }
+      }
+    },
+    {
+      "emoji": "🇦🇲",
+      "name": "Armenia",
+      "code": "AM",
+      "phoneCountryCode": "+374",
+      "phoneMeta": {
+        "countryCallingCode": "+374",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "77123456",
+          "exampleInternational": "+374 77123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇦🇺",
+      "name": "Australia",
+      "code": "AU",
+      "phoneCountryCode": "+61",
+      "phoneMeta": {
+        "countryCallingCode": "+61",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "412345678",
+          "exampleInternational": "+61 412345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇦🇹",
+      "name": "Austria",
+      "code": "AT",
+      "phoneCountryCode": "+43",
+      "phoneMeta": {
+        "countryCallingCode": "+43",
+        "mobile": {
+          "minLength": null,
+          "maxLength": null,
+          "exampleNational": "664123456",
+          "exampleInternational": "+43 664123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇦🇿",
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "phoneCountryCode": "+994",
+      "phoneMeta": {
+        "countryCallingCode": "+994",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "401234567",
+          "exampleInternational": "+994 401234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇸",
+      "name": "Bahamas",
+      "code": "BS",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "2423591234",
+          "exampleInternational": "+1 2423591234"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇭",
+      "name": "Bahrain",
+      "code": "BH",
+      "phoneCountryCode": "+973",
+      "phoneMeta": {
+        "countryCallingCode": "+973",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "36001234",
+          "exampleInternational": "+973 36001234"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇩",
+      "name": "Bangladesh",
+      "code": "BD",
+      "phoneCountryCode": "+880",
+      "phoneMeta": {
+        "countryCallingCode": "+880",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "1812345678",
+          "exampleInternational": "+880 1812345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇧",
+      "name": "Barbados",
+      "code": "BB",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "2462501234",
+          "exampleInternational": "+1 2462501234"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇾",
+      "name": "Belarus",
+      "code": "BY",
+      "phoneCountryCode": "+375",
+      "phoneMeta": {
+        "countryCallingCode": "+375",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "294911911",
+          "exampleInternational": "+375 294911911"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇪",
+      "name": "Belgium",
+      "code": "BE",
+      "phoneCountryCode": "+32",
+      "phoneMeta": {
+        "countryCallingCode": "+32",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "450001234",
+          "exampleInternational": "+32 450001234"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇿",
+      "name": "Belize",
+      "code": "BZ",
+      "phoneCountryCode": "+501",
+      "phoneMeta": {
+        "countryCallingCode": "+501",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "6221234",
+          "exampleInternational": "+501 6221234"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇯",
+      "name": "Benin",
+      "code": "BJ",
+      "phoneCountryCode": "+229",
+      "phoneMeta": {
+        "countryCallingCode": "+229",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "0195123456",
+          "exampleInternational": "+229 0195123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇹",
+      "name": "Bhutan",
+      "code": "BT",
+      "phoneCountryCode": "+975",
+      "phoneMeta": {
+        "countryCallingCode": "+975",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "17123456",
+          "exampleInternational": "+975 17123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇴",
+      "name": "Bolivia",
+      "code": "BO",
+      "phoneCountryCode": "+591",
+      "phoneMeta": {
+        "countryCallingCode": "+591",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "71234567",
+          "exampleInternational": "+591 71234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇦",
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "phoneCountryCode": "+387",
+      "phoneMeta": {
+        "countryCallingCode": "+387",
+        "mobile": {
+          "possibleLengths": [
+            8,
+            9
+          ],
+          "minLength": 8,
+          "maxLength": 9,
+          "exampleNational": "61123456",
+          "exampleInternational": "+387 61123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇼",
+      "name": "Botswana",
+      "code": "BW",
+      "phoneCountryCode": "+267",
+      "phoneMeta": {
+        "countryCallingCode": "+267",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "71123456",
+          "exampleInternational": "+267 71123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇷",
+      "name": "Brazil",
+      "code": "BR",
+      "phoneCountryCode": "+55",
+      "phoneMeta": {
+        "countryCallingCode": "+55",
+        "mobile": {
+          "possibleLengths": [
+            10,
+            11
+          ],
+          "minLength": 10,
+          "maxLength": 11,
+          "exampleNational": "11961234567",
+          "exampleInternational": "+55 11961234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇳",
+      "name": "Brunei",
+      "code": "BN",
+      "phoneCountryCode": "+673",
+      "phoneMeta": {
+        "countryCallingCode": "+673",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "7123456",
+          "exampleInternational": "+673 7123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇬",
+      "name": "Bulgaria",
+      "code": "BG",
+      "phoneCountryCode": "+359",
+      "phoneMeta": {
+        "countryCallingCode": "+359",
+        "mobile": {
+          "possibleLengths": [
+            8,
+            9
+          ],
+          "minLength": 8,
+          "maxLength": 9,
+          "exampleNational": "43012345",
+          "exampleInternational": "+359 43012345"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇫",
+      "name": "Burkina Faso",
+      "code": "BF",
+      "phoneCountryCode": "+226",
+      "phoneMeta": {
+        "countryCallingCode": "+226",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "70123456",
+          "exampleInternational": "+226 70123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇧🇮",
+      "name": "Burundi",
+      "code": "BI",
+      "phoneCountryCode": "+257",
+      "phoneMeta": {
+        "countryCallingCode": "+257",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "79561234",
+          "exampleInternational": "+257 79561234"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇻",
+      "name": "Cabo Verde",
+      "code": "CV",
+      "phoneCountryCode": "+238",
+      "phoneMeta": {
+        "countryCallingCode": "+238",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "9911234",
+          "exampleInternational": "+238 9911234"
+        }
+      }
+    },
+    {
+      "emoji": "🇰🇭",
+      "name": "Cambodia",
+      "code": "KH",
+      "phoneCountryCode": "+855",
+      "phoneMeta": {
+        "countryCallingCode": "+855",
+        "mobile": {
+          "possibleLengths": [
+            8,
+            9
+          ],
+          "minLength": 8,
+          "maxLength": 9,
+          "exampleNational": "91234567",
+          "exampleInternational": "+855 91234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇲",
+      "name": "Cameroon",
+      "code": "CM",
+      "phoneCountryCode": "+237",
+      "phoneMeta": {
+        "countryCallingCode": "+237",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "671234567",
+          "exampleInternational": "+237 671234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇦",
+      "name": "Canada",
+      "code": "CA",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "5062345678",
+          "exampleInternational": "+1 5062345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇫",
+      "name": "Central African Republic",
+      "code": "CF",
+      "phoneCountryCode": "+236",
+      "phoneMeta": {
+        "countryCallingCode": "+236",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "70012345",
+          "exampleInternational": "+236 70012345"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇩",
+      "name": "Chad",
+      "code": "TD",
+      "phoneCountryCode": "+235",
+      "phoneMeta": {
+        "countryCallingCode": "+235",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "63012345",
+          "exampleInternational": "+235 63012345"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇱",
+      "name": "Chile",
+      "code": "CL",
+      "phoneCountryCode": "+56",
+      "phoneMeta": {
+        "countryCallingCode": "+56",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "221234567",
+          "exampleInternational": "+56 221234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇳",
+      "name": "China",
+      "code": "CN",
+      "phoneCountryCode": "+86",
+      "phoneMeta": {
+        "countryCallingCode": "+86",
+        "mobile": {
+          "possibleLengths": [
+            11
+          ],
+          "minLength": 11,
+          "maxLength": 11,
+          "exampleNational": "13123456789",
+          "exampleInternational": "+86 13123456789"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇴",
+      "name": "Colombia",
+      "code": "CO",
+      "phoneCountryCode": "+57",
+      "phoneMeta": {
+        "countryCallingCode": "+57",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "3211234567",
+          "exampleInternational": "+57 3211234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇰🇲",
+      "name": "Comoros",
+      "code": "KM",
+      "phoneCountryCode": "+269",
+      "phoneMeta": {
+        "countryCallingCode": "+269",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "3212345",
+          "exampleInternational": "+269 3212345"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇬",
+      "name": "Congo (Congo-Brazzaville)",
+      "code": "CG",
+      "phoneCountryCode": "+242",
+      "phoneMeta": {
+        "countryCallingCode": "+242",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "061234567",
+          "exampleInternational": "+242 061234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇷",
+      "name": "Costa Rica",
+      "code": "CR",
+      "phoneCountryCode": "+506",
+      "phoneMeta": {
+        "countryCallingCode": "+506",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "83123456",
+          "exampleInternational": "+506 83123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇭🇷",
+      "name": "Croatia",
+      "code": "HR",
+      "phoneCountryCode": "+385",
+      "phoneMeta": {
+        "countryCallingCode": "+385",
+        "mobile": {
+          "possibleLengths": [
+            8,
+            9
+          ],
+          "minLength": 8,
+          "maxLength": 9,
+          "exampleNational": "921234567",
+          "exampleInternational": "+385 921234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇺",
+      "name": "Cuba",
+      "code": "CU",
+      "phoneCountryCode": "+53",
+      "phoneMeta": {
+        "countryCallingCode": "+53",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "51234567",
+          "exampleInternational": "+53 51234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇾",
+      "name": "Cyprus",
+      "code": "CY",
+      "phoneCountryCode": "+357",
+      "phoneMeta": {
+        "countryCallingCode": "+357",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "96123456",
+          "exampleInternational": "+357 96123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇿",
+      "name": "Czechia (Czech Republic)",
+      "code": "CZ",
+      "phoneCountryCode": "+420",
+      "phoneMeta": {
+        "countryCallingCode": "+420",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "601123456",
+          "exampleInternational": "+420 601123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇩",
+      "name": "Democratic Republic of the Congo",
+      "code": "CD",
+      "phoneCountryCode": "+243",
+      "phoneMeta": {
+        "countryCallingCode": "+243",
+        "mobile": {
+          "possibleLengths": [
+            7,
+            9
+          ],
+          "minLength": 7,
+          "maxLength": 9,
+          "exampleNational": "991234567",
+          "exampleInternational": "+243 991234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇩🇰",
+      "name": "Denmark",
+      "code": "DK",
+      "phoneCountryCode": "+45",
+      "phoneMeta": {
+        "countryCallingCode": "+45",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "34412345",
+          "exampleInternational": "+45 34412345"
+        }
+      }
+    },
+    {
+      "emoji": "🇩🇯",
+      "name": "Djibouti",
+      "code": "DJ",
+      "phoneCountryCode": "+253",
+      "phoneMeta": {
+        "countryCallingCode": "+253",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "77831001",
+          "exampleInternational": "+253 77831001"
+        }
+      }
+    },
+    {
+      "emoji": "🇩🇲",
+      "name": "Dominica",
+      "code": "DM",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "7672251234",
+          "exampleInternational": "+1 7672251234"
+        }
+      }
+    },
+    {
+      "emoji": "🇩🇴",
+      "name": "Dominican Republic",
+      "code": "DO",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "8092345678",
+          "exampleInternational": "+1 8092345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇪🇨",
+      "name": "Ecuador",
+      "code": "EC",
+      "phoneCountryCode": "+593",
+      "phoneMeta": {
+        "countryCallingCode": "+593",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "991234567",
+          "exampleInternational": "+593 991234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇪🇬",
+      "name": "Egypt",
+      "code": "EG",
+      "phoneCountryCode": "+20",
+      "phoneMeta": {
+        "countryCallingCode": "+20",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "1001234567",
+          "exampleInternational": "+20 1001234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇻",
+      "name": "El Salvador",
+      "code": "SV",
+      "phoneCountryCode": "+503",
+      "phoneMeta": {
+        "countryCallingCode": "+503",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "70123456",
+          "exampleInternational": "+503 70123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇬🇶",
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "phoneCountryCode": "+240",
+      "phoneMeta": {
+        "countryCallingCode": "+240",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "222123456",
+          "exampleInternational": "+240 222123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇪🇷",
+      "name": "Eritrea",
+      "code": "ER",
+      "phoneCountryCode": "+291",
+      "phoneMeta": {
+        "countryCallingCode": "+291",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "7123456",
+          "exampleInternational": "+291 7123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇪🇪",
+      "name": "Estonia",
+      "code": "EE",
+      "phoneCountryCode": "+372",
+      "phoneMeta": {
+        "countryCallingCode": "+372",
+        "mobile": {
+          "possibleLengths": [
+            7,
+            8
+          ],
+          "minLength": 7,
+          "maxLength": 8,
+          "exampleNational": "51234567",
+          "exampleInternational": "+372 51234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇿",
+      "name": "Eswatini (fmr. Swaziland)",
+      "code": "SZ",
+      "phoneCountryCode": "+268",
+      "phoneMeta": {
+        "countryCallingCode": "+268",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "76123456",
+          "exampleInternational": "+268 76123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇪🇹",
+      "name": "Ethiopia",
+      "code": "ET",
+      "phoneCountryCode": "+251",
+      "phoneMeta": {
+        "countryCallingCode": "+251",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "911234567",
+          "exampleInternational": "+251 911234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇫🇯",
+      "name": "Fiji",
+      "code": "FJ",
+      "phoneCountryCode": "+679",
+      "phoneMeta": {
+        "countryCallingCode": "+679",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "7012345",
+          "exampleInternational": "+679 7012345"
+        }
+      }
+    },
+    {
+      "emoji": "🇫🇮",
+      "name": "Finland",
+      "code": "FI",
+      "phoneCountryCode": "+358",
+      "phoneMeta": {
+        "countryCallingCode": "+358",
+        "mobile": {
+          "minLength": null,
+          "maxLength": null,
+          "exampleNational": "412345678",
+          "exampleInternational": "+358 412345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇫🇷",
+      "name": "France",
+      "code": "FR",
+      "phoneCountryCode": "+33",
+      "phoneMeta": {
+        "countryCallingCode": "+33",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "612345678",
+          "exampleInternational": "+33 612345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇬🇦",
+      "name": "Gabon",
+      "code": "GA",
+      "phoneCountryCode": "+241",
+      "phoneMeta": {
+        "countryCallingCode": "+241",
+        "mobile": {
+          "possibleLengths": [
+            7,
+            8
+          ],
+          "minLength": 7,
+          "maxLength": 8,
+          "exampleNational": "06031234",
+          "exampleInternational": "+241 06031234"
+        }
+      }
+    },
+    {
+      "emoji": "🇬🇲",
+      "name": "Gambia",
+      "code": "GM",
+      "phoneCountryCode": "+220",
+      "phoneMeta": {
+        "countryCallingCode": "+220",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "3012345",
+          "exampleInternational": "+220 3012345"
+        }
+      }
+    },
+    {
+      "emoji": "🇬🇪",
+      "name": "Georgia",
+      "code": "GE",
+      "phoneCountryCode": "+995",
+      "phoneMeta": {
+        "countryCallingCode": "+995",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "555123456",
+          "exampleInternational": "+995 555123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇩🇪",
+      "name": "Germany",
+      "code": "DE",
+      "phoneCountryCode": "+49",
+      "phoneMeta": {
+        "countryCallingCode": "+49",
+        "mobile": {
+          "possibleLengths": [
+            10,
+            11
+          ],
+          "minLength": 10,
+          "maxLength": 11,
+          "exampleNational": "15123456789",
+          "exampleInternational": "+49 15123456789"
+        }
+      }
+    },
+    {
+      "emoji": "🇬🇭",
+      "name": "Ghana",
+      "code": "GH",
+      "phoneCountryCode": "+233",
+      "phoneMeta": {
+        "countryCallingCode": "+233",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "231234567",
+          "exampleInternational": "+233 231234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇬🇷",
+      "name": "Greece",
+      "code": "GR",
+      "phoneCountryCode": "+30",
+      "phoneMeta": {
+        "countryCallingCode": "+30",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "6912345678",
+          "exampleInternational": "+30 6912345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇬🇩",
+      "name": "Grenada",
+      "code": "GD",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "4734031234",
+          "exampleInternational": "+1 4734031234"
+        }
+      }
+    },
+    {
+      "emoji": "🇬🇹",
+      "name": "Guatemala",
+      "code": "GT",
+      "phoneCountryCode": "+502",
+      "phoneMeta": {
+        "countryCallingCode": "+502",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "51234567",
+          "exampleInternational": "+502 51234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇬🇳",
+      "name": "Guinea",
+      "code": "GN",
+      "phoneCountryCode": "+224",
+      "phoneMeta": {
+        "countryCallingCode": "+224",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "601123456",
+          "exampleInternational": "+224 601123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇬🇼",
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "phoneCountryCode": "+245",
+      "phoneMeta": {
+        "countryCallingCode": "+245",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "955012345",
+          "exampleInternational": "+245 955012345"
+        }
+      }
+    },
+    {
+      "emoji": "🇬🇾",
+      "name": "Guyana",
+      "code": "GY",
+      "phoneCountryCode": "+592",
+      "phoneMeta": {
+        "countryCallingCode": "+592",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "6091234",
+          "exampleInternational": "+592 6091234"
+        }
+      }
+    },
+    {
+      "emoji": "🇭🇹",
+      "name": "Haiti",
+      "code": "HT",
+      "phoneCountryCode": "+509",
+      "phoneMeta": {
+        "countryCallingCode": "+509",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "34101234",
+          "exampleInternational": "+509 34101234"
+        }
+      }
+    },
+    {
+      "emoji": "🇭🇳",
+      "name": "Honduras",
+      "code": "HN",
+      "phoneCountryCode": "+504",
+      "phoneMeta": {
+        "countryCallingCode": "+504",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "91234567",
+          "exampleInternational": "+504 91234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇭🇺",
+      "name": "Hungary",
+      "code": "HU",
+      "phoneCountryCode": "+36",
+      "phoneMeta": {
+        "countryCallingCode": "+36",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "201234567",
+          "exampleInternational": "+36 201234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇮🇸",
+      "name": "Iceland",
+      "code": "IS",
+      "phoneCountryCode": "+354",
+      "phoneMeta": {
+        "countryCallingCode": "+354",
+        "mobile": {
+          "possibleLengths": [
+            7,
+            9
+          ],
+          "minLength": 7,
+          "maxLength": 9,
+          "exampleNational": "6111234",
+          "exampleInternational": "+354 6111234"
+        }
+      }
+    },
+    {
+      "emoji": "🇮🇳",
+      "name": "India",
+      "code": "IN",
+      "phoneCountryCode": "+91",
+      "phoneMeta": {
+        "countryCallingCode": "+91",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "8123456789",
+          "exampleInternational": "+91 8123456789"
+        }
+      }
+    },
+    {
+      "emoji": "🇮🇩",
+      "name": "Indonesia",
+      "code": "ID",
+      "phoneCountryCode": "+62",
+      "phoneMeta": {
+        "countryCallingCode": "+62",
+        "mobile": {
+          "minLength": null,
+          "maxLength": null,
+          "exampleNational": "812345678",
+          "exampleInternational": "+62 812345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇮🇷",
+      "name": "Iran",
+      "code": "IR",
+      "phoneCountryCode": "+98",
+      "phoneMeta": {
+        "countryCallingCode": "+98",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "9123456789",
+          "exampleInternational": "+98 9123456789"
+        }
+      }
+    },
+    {
+      "emoji": "🇮🇶",
+      "name": "Iraq",
+      "code": "IQ",
+      "phoneCountryCode": "+964",
+      "phoneMeta": {
+        "countryCallingCode": "+964",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "7912345678",
+          "exampleInternational": "+964 7912345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇮🇪",
+      "name": "Ireland",
+      "code": "IE",
+      "phoneCountryCode": "+353",
+      "phoneMeta": {
+        "countryCallingCode": "+353",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "850123456",
+          "exampleInternational": "+353 850123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇮🇱",
+      "name": "Israel",
+      "code": "IL",
+      "phoneCountryCode": "+972",
+      "phoneMeta": {
+        "countryCallingCode": "+972",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "502345678",
+          "exampleInternational": "+972 502345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇮🇹",
+      "name": "Italy",
+      "code": "IT",
+      "phoneCountryCode": "+39",
+      "phoneMeta": {
+        "countryCallingCode": "+39",
+        "mobile": {
+          "possibleLengths": [
+            9,
+            10
+          ],
+          "minLength": 9,
+          "maxLength": 10,
+          "exampleNational": "3123456789",
+          "exampleInternational": "+39 3123456789"
+        }
+      }
+    },
+    {
+      "emoji": "🇯🇲",
+      "name": "Jamaica",
+      "code": "JM",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "8762101234",
+          "exampleInternational": "+1 8762101234"
+        }
+      }
+    },
+    {
+      "emoji": "🇯🇵",
+      "name": "Japan",
+      "code": "JP",
+      "phoneCountryCode": "+81",
+      "phoneMeta": {
+        "countryCallingCode": "+81",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "9012345678",
+          "exampleInternational": "+81 9012345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇯🇴",
+      "name": "Jordan",
+      "code": "JO",
+      "phoneCountryCode": "+962",
+      "phoneMeta": {
+        "countryCallingCode": "+962",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "790123456",
+          "exampleInternational": "+962 790123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇰🇿",
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "phoneCountryCode": "+7",
+      "phoneMeta": {
+        "countryCallingCode": "+7",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "7710009998",
+          "exampleInternational": "+7 7710009998"
+        }
+      }
+    },
+    {
+      "emoji": "🇰🇪",
+      "name": "Kenya",
+      "code": "KE",
+      "phoneCountryCode": "+254",
+      "phoneMeta": {
+        "countryCallingCode": "+254",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "712123456",
+          "exampleInternational": "+254 712123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇰🇮",
+      "name": "Kiribati",
+      "code": "KI",
+      "phoneCountryCode": "+686",
+      "phoneMeta": {
+        "countryCallingCode": "+686",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "72001234",
+          "exampleInternational": "+686 72001234"
+        }
+      }
+    },
+    {
+      "emoji": "🇰🇼",
+      "name": "Kuwait",
+      "code": "KW",
+      "phoneCountryCode": "+965",
+      "phoneMeta": {
+        "countryCallingCode": "+965",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "50012345",
+          "exampleInternational": "+965 50012345"
+        }
+      }
+    },
+    {
+      "emoji": "🇰🇬",
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "phoneCountryCode": "+996",
+      "phoneMeta": {
+        "countryCallingCode": "+996",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "700123456",
+          "exampleInternational": "+996 700123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇱🇦",
+      "name": "Laos",
+      "code": "LA",
+      "phoneCountryCode": "+856",
+      "phoneMeta": {
+        "countryCallingCode": "+856",
+        "mobile": {
+          "possibleLengths": [
+            9,
+            10
+          ],
+          "minLength": 9,
+          "maxLength": 10,
+          "exampleNational": "2023123456",
+          "exampleInternational": "+856 2023123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇱🇻",
+      "name": "Latvia",
+      "code": "LV",
+      "phoneCountryCode": "+371",
+      "phoneMeta": {
+        "countryCallingCode": "+371",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "21234567",
+          "exampleInternational": "+371 21234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇱🇧",
+      "name": "Lebanon",
+      "code": "LB",
+      "phoneCountryCode": "+961",
+      "phoneMeta": {
+        "countryCallingCode": "+961",
+        "mobile": {
+          "possibleLengths": [
+            7,
+            8
+          ],
+          "minLength": 7,
+          "maxLength": 8,
+          "exampleNational": "71123456",
+          "exampleInternational": "+961 71123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇱🇸",
+      "name": "Lesotho",
+      "code": "LS",
+      "phoneCountryCode": "+266",
+      "phoneMeta": {
+        "countryCallingCode": "+266",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "50123456",
+          "exampleInternational": "+266 50123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇱🇷",
+      "name": "Liberia",
+      "code": "LR",
+      "phoneCountryCode": "+231",
+      "phoneMeta": {
+        "countryCallingCode": "+231",
+        "mobile": {
+          "possibleLengths": [
+            7,
+            9
+          ],
+          "minLength": 7,
+          "maxLength": 9,
+          "exampleNational": "770123456",
+          "exampleInternational": "+231 770123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇱🇾",
+      "name": "Libya",
+      "code": "LY",
+      "phoneCountryCode": "+218",
+      "phoneMeta": {
+        "countryCallingCode": "+218",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "912345678",
+          "exampleInternational": "+218 912345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇱🇮",
+      "name": "Liechtenstein",
+      "code": "LI",
+      "phoneCountryCode": "+423",
+      "phoneMeta": {
+        "countryCallingCode": "+423",
+        "mobile": {
+          "possibleLengths": [
+            7,
+            9
+          ],
+          "minLength": 7,
+          "maxLength": 9,
+          "exampleNational": "660234567",
+          "exampleInternational": "+423 660234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇱🇹",
+      "name": "Lithuania",
+      "code": "LT",
+      "phoneCountryCode": "+370",
+      "phoneMeta": {
+        "countryCallingCode": "+370",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "61234567",
+          "exampleInternational": "+370 61234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇱🇺",
+      "name": "Luxembourg",
+      "code": "LU",
+      "phoneCountryCode": "+352",
+      "phoneMeta": {
+        "countryCallingCode": "+352",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "628123456",
+          "exampleInternational": "+352 628123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇬",
+      "name": "Madagascar",
+      "code": "MG",
+      "phoneCountryCode": "+261",
+      "phoneMeta": {
+        "countryCallingCode": "+261",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "321234567",
+          "exampleInternational": "+261 321234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇼",
+      "name": "Malawi",
+      "code": "MW",
+      "phoneCountryCode": "+265",
+      "phoneMeta": {
+        "countryCallingCode": "+265",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "991234567",
+          "exampleInternational": "+265 991234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇾",
+      "name": "Malaysia",
+      "code": "MY",
+      "phoneCountryCode": "+60",
+      "phoneMeta": {
+        "countryCallingCode": "+60",
+        "mobile": {
+          "possibleLengths": [
+            9,
+            10
+          ],
+          "minLength": 9,
+          "maxLength": 10,
+          "exampleNational": "123456789",
+          "exampleInternational": "+60 123456789"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇻",
+      "name": "Maldives",
+      "code": "MV",
+      "phoneCountryCode": "+960",
+      "phoneMeta": {
+        "countryCallingCode": "+960",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "7712345",
+          "exampleInternational": "+960 7712345"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇱",
+      "name": "Mali",
+      "code": "ML",
+      "phoneCountryCode": "+223",
+      "phoneMeta": {
+        "countryCallingCode": "+223",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "65012345",
+          "exampleInternational": "+223 65012345"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇹",
+      "name": "Malta",
+      "code": "MT",
+      "phoneCountryCode": "+356",
+      "phoneMeta": {
+        "countryCallingCode": "+356",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "96961234",
+          "exampleInternational": "+356 96961234"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇭",
+      "name": "Marshall Islands",
+      "code": "MH",
+      "phoneCountryCode": "+692",
+      "phoneMeta": {
+        "countryCallingCode": "+692",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "2351234",
+          "exampleInternational": "+692 2351234"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇷",
+      "name": "Mauritania",
+      "code": "MR",
+      "phoneCountryCode": "+222",
+      "phoneMeta": {
+        "countryCallingCode": "+222",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "22123456",
+          "exampleInternational": "+222 22123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇺",
+      "name": "Mauritius",
+      "code": "MU",
+      "phoneCountryCode": "+230",
+      "phoneMeta": {
+        "countryCallingCode": "+230",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "52512345",
+          "exampleInternational": "+230 52512345"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇽",
+      "name": "Mexico",
+      "code": "MX",
+      "phoneCountryCode": "+52",
+      "phoneMeta": {
+        "countryCallingCode": "+52",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "2221234567",
+          "exampleInternational": "+52 2221234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇫🇲",
+      "name": "Micronesia",
+      "code": "FM",
+      "phoneCountryCode": "+691",
+      "phoneMeta": {
+        "countryCallingCode": "+691",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "3501234",
+          "exampleInternational": "+691 3501234"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇩",
+      "name": "Moldova",
+      "code": "MD",
+      "phoneCountryCode": "+373",
+      "phoneMeta": {
+        "countryCallingCode": "+373",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "62112345",
+          "exampleInternational": "+373 62112345"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇨",
+      "name": "Monaco",
+      "code": "MC",
+      "phoneCountryCode": "+377",
+      "phoneMeta": {
+        "countryCallingCode": "+377",
+        "mobile": {
+          "possibleLengths": [
+            8,
+            9
+          ],
+          "minLength": 8,
+          "maxLength": 9,
+          "exampleNational": "612345678",
+          "exampleInternational": "+377 612345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇳",
+      "name": "Mongolia",
+      "code": "MN",
+      "phoneCountryCode": "+976",
+      "phoneMeta": {
+        "countryCallingCode": "+976",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "88123456",
+          "exampleInternational": "+976 88123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇪",
+      "name": "Montenegro",
+      "code": "ME",
+      "phoneCountryCode": "+382",
+      "phoneMeta": {
+        "countryCallingCode": "+382",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "60123456",
+          "exampleInternational": "+382 60123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇦",
+      "name": "Morocco",
+      "code": "MA",
+      "phoneCountryCode": "+212",
+      "phoneMeta": {
+        "countryCallingCode": "+212",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "650123456",
+          "exampleInternational": "+212 650123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇿",
+      "name": "Mozambique",
+      "code": "MZ",
+      "phoneCountryCode": "+258",
+      "phoneMeta": {
+        "countryCallingCode": "+258",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "821234567",
+          "exampleInternational": "+258 821234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇲",
+      "name": "Myanmar (formerly Burma)",
+      "code": "MM",
+      "phoneCountryCode": "+95",
+      "phoneMeta": {
+        "countryCallingCode": "+95",
+        "mobile": {
+          "minLength": null,
+          "maxLength": null,
+          "exampleNational": "92123456",
+          "exampleInternational": "+95 92123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇳🇦",
+      "name": "Namibia",
+      "code": "NA",
+      "phoneCountryCode": "+264",
+      "phoneMeta": {
+        "countryCallingCode": "+264",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "811234567",
+          "exampleInternational": "+264 811234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇳🇷",
+      "name": "Nauru",
+      "code": "NR",
+      "phoneCountryCode": "+674",
+      "phoneMeta": {
+        "countryCallingCode": "+674",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "5551234",
+          "exampleInternational": "+674 5551234"
+        }
+      }
+    },
+    {
+      "emoji": "🇳🇵",
+      "name": "Nepal",
+      "code": "NP",
+      "phoneCountryCode": "+977",
+      "phoneMeta": {
+        "countryCallingCode": "+977",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "9841234567",
+          "exampleInternational": "+977 9841234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇳🇱",
+      "name": "Netherlands",
+      "code": "NL",
+      "phoneCountryCode": "+31",
+      "phoneMeta": {
+        "countryCallingCode": "+31",
+        "mobile": {
+          "possibleLengths": [
+            9,
+            11
+          ],
+          "minLength": 9,
+          "maxLength": 11,
+          "exampleNational": "612345678",
+          "exampleInternational": "+31 612345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇳🇿",
+      "name": "New Zealand",
+      "code": "NZ",
+      "phoneCountryCode": "+64",
+      "phoneMeta": {
+        "countryCallingCode": "+64",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "211234567",
+          "exampleInternational": "+64 211234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇳🇮",
+      "name": "Nicaragua",
+      "code": "NI",
+      "phoneCountryCode": "+505",
+      "phoneMeta": {
+        "countryCallingCode": "+505",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "81234567",
+          "exampleInternational": "+505 81234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇳🇪",
+      "name": "Niger",
+      "code": "NE",
+      "phoneCountryCode": "+227",
+      "phoneMeta": {
+        "countryCallingCode": "+227",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "93123456",
+          "exampleInternational": "+227 93123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇳🇬",
+      "name": "Nigeria",
+      "code": "NG",
+      "phoneCountryCode": "+234",
+      "phoneMeta": {
+        "countryCallingCode": "+234",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "8021234567",
+          "exampleInternational": "+234 8021234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇰🇵",
+      "name": "North Korea",
+      "code": "KP",
+      "phoneCountryCode": "+850",
+      "phoneMeta": {
+        "countryCallingCode": "+850",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "1921234567",
+          "exampleInternational": "+850 1921234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇲🇰",
+      "name": "North Macedonia",
+      "code": "MK",
+      "phoneCountryCode": "+389",
+      "phoneMeta": {
+        "countryCallingCode": "+389",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "72345678",
+          "exampleInternational": "+389 72345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇳🇴",
+      "name": "Norway",
+      "code": "NO",
+      "phoneCountryCode": "+47",
+      "phoneMeta": {
+        "countryCallingCode": "+47",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "40612345",
+          "exampleInternational": "+47 40612345"
+        }
+      }
+    },
+    {
+      "emoji": "🇴🇲",
+      "name": "Oman",
+      "code": "OM",
+      "phoneCountryCode": "+968",
+      "phoneMeta": {
+        "countryCallingCode": "+968",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "92123456",
+          "exampleInternational": "+968 92123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇵🇰",
+      "name": "Pakistan",
+      "code": "PK",
+      "phoneCountryCode": "+92",
+      "phoneMeta": {
+        "countryCallingCode": "+92",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "3012345678",
+          "exampleInternational": "+92 3012345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇵🇼",
+      "name": "Palau",
+      "code": "PW",
+      "phoneCountryCode": "+680",
+      "phoneMeta": {
+        "countryCallingCode": "+680",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "6201234",
+          "exampleInternational": "+680 6201234"
+        }
+      }
+    },
+    {
+      "emoji": "🇵🇸",
+      "name": "Palestine State",
+      "code": "PS",
+      "phoneCountryCode": "+970",
+      "phoneMeta": {
+        "countryCallingCode": "+970",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "599123456",
+          "exampleInternational": "+970 599123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇵🇦",
+      "name": "Panama",
+      "code": "PA",
+      "phoneCountryCode": "+507",
+      "phoneMeta": {
+        "countryCallingCode": "+507",
+        "mobile": {
+          "possibleLengths": [
+            7,
+            8
+          ],
+          "minLength": 7,
+          "maxLength": 8,
+          "exampleNational": "61234567",
+          "exampleInternational": "+507 61234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇵🇬",
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "phoneCountryCode": "+675",
+      "phoneMeta": {
+        "countryCallingCode": "+675",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "70123456",
+          "exampleInternational": "+675 70123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇵🇾",
+      "name": "Paraguay",
+      "code": "PY",
+      "phoneCountryCode": "+595",
+      "phoneMeta": {
+        "countryCallingCode": "+595",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "961456789",
+          "exampleInternational": "+595 961456789"
+        }
+      }
+    },
+    {
+      "emoji": "🇵🇪",
+      "name": "Peru",
+      "code": "PE",
+      "phoneCountryCode": "+51",
+      "phoneMeta": {
+        "countryCallingCode": "+51",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "912345678",
+          "exampleInternational": "+51 912345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇵🇭",
+      "name": "Philippines",
+      "code": "PH",
+      "phoneCountryCode": "+63",
+      "phoneMeta": {
+        "countryCallingCode": "+63",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "9051234567",
+          "exampleInternational": "+63 9051234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇵🇱",
+      "name": "Poland",
+      "code": "PL",
+      "phoneCountryCode": "+48",
+      "phoneMeta": {
+        "countryCallingCode": "+48",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "512345678",
+          "exampleInternational": "+48 512345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇵🇹",
+      "name": "Portugal",
+      "code": "PT",
+      "phoneCountryCode": "+351",
+      "phoneMeta": {
+        "countryCallingCode": "+351",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "912345678",
+          "exampleInternational": "+351 912345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇶🇦",
+      "name": "Qatar",
+      "code": "QA",
+      "phoneCountryCode": "+974",
+      "phoneMeta": {
+        "countryCallingCode": "+974",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "33123456",
+          "exampleInternational": "+974 33123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇷🇴",
+      "name": "Romania",
+      "code": "RO",
+      "phoneCountryCode": "+40",
+      "phoneMeta": {
+        "countryCallingCode": "+40",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "712034567",
+          "exampleInternational": "+40 712034567"
+        }
+      }
+    },
+    {
+      "emoji": "🇷🇺",
+      "name": "Russia",
+      "code": "RU",
+      "phoneCountryCode": "+7",
+      "phoneMeta": {
+        "countryCallingCode": "+7",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "9123456789",
+          "exampleInternational": "+7 9123456789"
+        }
+      }
+    },
+    {
+      "emoji": "🇷🇼",
+      "name": "Rwanda",
+      "code": "RW",
+      "phoneCountryCode": "+250",
+      "phoneMeta": {
+        "countryCallingCode": "+250",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "720123456",
+          "exampleInternational": "+250 720123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇰🇳",
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "8697652917",
+          "exampleInternational": "+1 8697652917"
+        }
+      }
+    },
+    {
+      "emoji": "🇱🇨",
+      "name": "Saint Lucia",
+      "code": "LC",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "7582845678",
+          "exampleInternational": "+1 7582845678"
+        }
+      }
+    },
+    {
+      "emoji": "🇻🇨",
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "7844301234",
+          "exampleInternational": "+1 7844301234"
+        }
+      }
+    },
+    {
+      "emoji": "🇼🇸",
+      "name": "Samoa",
+      "code": "WS",
+      "phoneCountryCode": "+685",
+      "phoneMeta": {
+        "countryCallingCode": "+685",
+        "mobile": {
+          "possibleLengths": [
+            7,
+            10
+          ],
+          "minLength": 7,
+          "maxLength": 10,
+          "exampleNational": "7212345",
+          "exampleInternational": "+685 7212345"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇲",
+      "name": "San Marino",
+      "code": "SM",
+      "phoneCountryCode": "+378",
+      "phoneMeta": {
+        "countryCallingCode": "+378",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "66661212",
+          "exampleInternational": "+378 66661212"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇹",
+      "name": "Sao Tome and Principe",
+      "code": "ST",
+      "phoneCountryCode": "+239",
+      "phoneMeta": {
+        "countryCallingCode": "+239",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "9812345",
+          "exampleInternational": "+239 9812345"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇦",
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "phoneCountryCode": "+966",
+      "phoneMeta": {
+        "countryCallingCode": "+966",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "512345678",
+          "exampleInternational": "+966 512345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇳",
+      "name": "Senegal",
+      "code": "SN",
+      "phoneCountryCode": "+221",
+      "phoneMeta": {
+        "countryCallingCode": "+221",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "701234567",
+          "exampleInternational": "+221 701234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇷🇸",
+      "name": "Serbia",
+      "code": "RS",
+      "phoneCountryCode": "+381",
+      "phoneMeta": {
+        "countryCallingCode": "+381",
+        "mobile": {
+          "minLength": null,
+          "maxLength": null,
+          "exampleNational": "601234567",
+          "exampleInternational": "+381 601234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇨",
+      "name": "Seychelles",
+      "code": "SC",
+      "phoneCountryCode": "+248",
+      "phoneMeta": {
+        "countryCallingCode": "+248",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "2510123",
+          "exampleInternational": "+248 2510123"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇱",
+      "name": "Sierra Leone",
+      "code": "SL",
+      "phoneCountryCode": "+232",
+      "phoneMeta": {
+        "countryCallingCode": "+232",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "25123456",
+          "exampleInternational": "+232 25123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇬",
+      "name": "Singapore",
+      "code": "SG",
+      "phoneCountryCode": "+65",
+      "phoneMeta": {
+        "countryCallingCode": "+65",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "81234567",
+          "exampleInternational": "+65 81234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇰",
+      "name": "Slovakia",
+      "code": "SK",
+      "phoneCountryCode": "+421",
+      "phoneMeta": {
+        "countryCallingCode": "+421",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "912123456",
+          "exampleInternational": "+421 912123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇮",
+      "name": "Slovenia",
+      "code": "SI",
+      "phoneCountryCode": "+386",
+      "phoneMeta": {
+        "countryCallingCode": "+386",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "31234567",
+          "exampleInternational": "+386 31234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇧",
+      "name": "Solomon Islands",
+      "code": "SB",
+      "phoneCountryCode": "+677",
+      "phoneMeta": {
+        "countryCallingCode": "+677",
+        "mobile": {
+          "possibleLengths": [
+            5,
+            7
+          ],
+          "minLength": 5,
+          "maxLength": 7,
+          "exampleNational": "7421234",
+          "exampleInternational": "+677 7421234"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇴",
+      "name": "Somalia",
+      "code": "SO",
+      "phoneCountryCode": "+252",
+      "phoneMeta": {
+        "countryCallingCode": "+252",
+        "mobile": {
+          "possibleLengths": [
+            6,
+            7
+          ],
+          "minLength": 6,
+          "maxLength": 7,
+          "exampleNational": "71123456",
+          "exampleInternational": "+252 71123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇿🇦",
+      "name": "South Africa",
+      "code": "ZA",
+      "phoneCountryCode": "+27",
+      "phoneMeta": {
+        "countryCallingCode": "+27",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "711234567",
+          "exampleInternational": "+27 711234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇰🇷",
+      "name": "South Korea",
+      "code": "KR",
+      "phoneCountryCode": "+82",
+      "phoneMeta": {
+        "countryCallingCode": "+82",
+        "mobile": {
+          "possibleLengths": [
+            9,
+            10
+          ],
+          "minLength": 9,
+          "maxLength": 10,
+          "exampleNational": "1020000000",
+          "exampleInternational": "+82 1020000000"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇸",
+      "name": "South Sudan",
+      "code": "SS",
+      "phoneCountryCode": "+211",
+      "phoneMeta": {
+        "countryCallingCode": "+211",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "977123456",
+          "exampleInternational": "+211 977123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇪🇸",
+      "name": "Spain",
+      "code": "ES",
+      "phoneCountryCode": "+34",
+      "phoneMeta": {
+        "countryCallingCode": "+34",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "612345678",
+          "exampleInternational": "+34 612345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇱🇰",
+      "name": "Sri Lanka",
+      "code": "LK",
+      "phoneCountryCode": "+94",
+      "phoneMeta": {
+        "countryCallingCode": "+94",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "712345678",
+          "exampleInternational": "+94 712345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇩",
+      "name": "Sudan",
+      "code": "SD",
+      "phoneCountryCode": "+249",
+      "phoneMeta": {
+        "countryCallingCode": "+249",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "911231234",
+          "exampleInternational": "+249 911231234"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇷",
+      "name": "Suriname",
+      "code": "SR",
+      "phoneCountryCode": "+597",
+      "phoneMeta": {
+        "countryCallingCode": "+597",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "7412345",
+          "exampleInternational": "+597 7412345"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇪",
+      "name": "Sweden",
+      "code": "SE",
+      "phoneCountryCode": "+46",
+      "phoneMeta": {
+        "countryCallingCode": "+46",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "701234567",
+          "exampleInternational": "+46 701234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇨🇭",
+      "name": "Switzerland",
+      "code": "CH",
+      "phoneCountryCode": "+41",
+      "phoneMeta": {
+        "countryCallingCode": "+41",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "781234567",
+          "exampleInternational": "+41 781234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇸🇾",
+      "name": "Syria",
+      "code": "SY",
+      "phoneCountryCode": "+963",
+      "phoneMeta": {
+        "countryCallingCode": "+963",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "944567890",
+          "exampleInternational": "+963 944567890"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇼",
+      "name": "Taiwan",
+      "code": "TW",
+      "phoneCountryCode": "+886",
+      "phoneMeta": {
+        "countryCallingCode": "+886",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "912345678",
+          "exampleInternational": "+886 912345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇯",
+      "name": "Tajikistan",
+      "code": "TJ",
+      "phoneCountryCode": "+992",
+      "phoneMeta": {
+        "countryCallingCode": "+992",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "917123456",
+          "exampleInternational": "+992 917123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇿",
+      "name": "Tanzania",
+      "code": "TZ",
+      "phoneCountryCode": "+255",
+      "phoneMeta": {
+        "countryCallingCode": "+255",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "621234567",
+          "exampleInternational": "+255 621234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇭",
+      "name": "Thailand",
+      "code": "TH",
+      "phoneCountryCode": "+66",
+      "phoneMeta": {
+        "countryCallingCode": "+66",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "812345678",
+          "exampleInternational": "+66 812345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇱",
+      "name": "Timor-Leste",
+      "code": "TL",
+      "phoneCountryCode": "+670",
+      "phoneMeta": {
+        "countryCallingCode": "+670",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "77212345",
+          "exampleInternational": "+670 77212345"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇬",
+      "name": "Togo",
+      "code": "TG",
+      "phoneCountryCode": "+228",
+      "phoneMeta": {
+        "countryCallingCode": "+228",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "90112345",
+          "exampleInternational": "+228 90112345"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇴",
+      "name": "Tonga",
+      "code": "TO",
+      "phoneCountryCode": "+676",
+      "phoneMeta": {
+        "countryCallingCode": "+676",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "7715123",
+          "exampleInternational": "+676 7715123"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇹",
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "8682911234",
+          "exampleInternational": "+1 8682911234"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇳",
+      "name": "Tunisia",
+      "code": "TN",
+      "phoneCountryCode": "+216",
+      "phoneMeta": {
+        "countryCallingCode": "+216",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "20123456",
+          "exampleInternational": "+216 20123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇷",
+      "name": "Turkey",
+      "code": "TR",
+      "phoneCountryCode": "+90",
+      "phoneMeta": {
+        "countryCallingCode": "+90",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "5012345678",
+          "exampleInternational": "+90 5012345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇲",
+      "name": "Turkmenistan",
+      "code": "TM",
+      "phoneCountryCode": "+993",
+      "phoneMeta": {
+        "countryCallingCode": "+993",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "66123456",
+          "exampleInternational": "+993 66123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇹🇻",
+      "name": "Tuvalu",
+      "code": "TV",
+      "phoneCountryCode": "+688",
+      "phoneMeta": {
+        "countryCallingCode": "+688",
+        "mobile": {
+          "possibleLengths": [
+            6,
+            7
+          ],
+          "minLength": 6,
+          "maxLength": 7,
+          "exampleNational": "901234",
+          "exampleInternational": "+688 901234"
+        }
+      }
+    },
+    {
+      "emoji": "🇺🇬",
+      "name": "Uganda",
+      "code": "UG",
+      "phoneCountryCode": "+256",
+      "phoneMeta": {
+        "countryCallingCode": "+256",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "712345678",
+          "exampleInternational": "+256 712345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇺🇦",
+      "name": "Ukraine",
+      "code": "UA",
+      "phoneCountryCode": "+380",
+      "phoneMeta": {
+        "countryCallingCode": "+380",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "501234567",
+          "exampleInternational": "+380 501234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇦🇪",
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "phoneCountryCode": "+971",
+      "phoneMeta": {
+        "countryCallingCode": "+971",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "501234567",
+          "exampleInternational": "+971 501234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇬🇧",
+      "name": "United Kingdom",
+      "code": "GB",
+      "phoneCountryCode": "+44",
+      "phoneMeta": {
+        "countryCallingCode": "+44",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "7400123456",
+          "exampleInternational": "+44 7400123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇺🇸",
+      "name": "United States of America",
+      "code": "US",
+      "phoneCountryCode": "+1",
+      "phoneMeta": {
+        "countryCallingCode": "+1",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "2015550123",
+          "exampleInternational": "+1 2015550123"
+        }
+      }
+    },
+    {
+      "emoji": "🇺🇾",
+      "name": "Uruguay",
+      "code": "UY",
+      "phoneCountryCode": "+598",
+      "phoneMeta": {
+        "countryCallingCode": "+598",
+        "mobile": {
+          "possibleLengths": [
+            8
+          ],
+          "minLength": 8,
+          "maxLength": 8,
+          "exampleNational": "94231234",
+          "exampleInternational": "+598 94231234"
+        }
+      }
+    },
+    {
+      "emoji": "🇺🇿",
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "phoneCountryCode": "+998",
+      "phoneMeta": {
+        "countryCallingCode": "+998",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "912345678",
+          "exampleInternational": "+998 912345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇻🇺",
+      "name": "Vanuatu",
+      "code": "VU",
+      "phoneCountryCode": "+678",
+      "phoneMeta": {
+        "countryCallingCode": "+678",
+        "mobile": {
+          "possibleLengths": [
+            7
+          ],
+          "minLength": 7,
+          "maxLength": 7,
+          "exampleNational": "5912345",
+          "exampleInternational": "+678 5912345"
+        }
+      }
+    },
+    {
+      "emoji": "🇻🇦",
+      "name": "Vatican City",
+      "code": "VA",
+      "phoneCountryCode": "+39",
+      "phoneMeta": {
+        "countryCallingCode": "+39",
+        "mobile": {
+          "possibleLengths": [
+            9,
+            10
+          ],
+          "minLength": 9,
+          "maxLength": 10,
+          "exampleNational": "3123456789",
+          "exampleInternational": "+39 3123456789"
+        }
+      }
+    },
+    {
+      "emoji": "🇻🇪",
+      "name": "Venezuela",
+      "code": "VE",
+      "phoneCountryCode": "+58",
+      "phoneMeta": {
+        "countryCallingCode": "+58",
+        "mobile": {
+          "possibleLengths": [
+            10
+          ],
+          "minLength": 10,
+          "maxLength": 10,
+          "exampleNational": "4121234567",
+          "exampleInternational": "+58 4121234567"
+        }
+      }
+    },
+    {
+      "emoji": "🇻🇳",
+      "name": "Vietnam",
+      "code": "VN",
+      "phoneCountryCode": "+84",
+      "phoneMeta": {
+        "countryCallingCode": "+84",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "912345678",
+          "exampleInternational": "+84 912345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇾🇪",
+      "name": "Yemen",
+      "code": "YE",
+      "phoneCountryCode": "+967",
+      "phoneMeta": {
+        "countryCallingCode": "+967",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "712345678",
+          "exampleInternational": "+967 712345678"
+        }
+      }
+    },
+    {
+      "emoji": "🇿🇲",
+      "name": "Zambia",
+      "code": "ZM",
+      "phoneCountryCode": "+260",
+      "phoneMeta": {
+        "countryCallingCode": "+260",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "955123456",
+          "exampleInternational": "+260 955123456"
+        }
+      }
+    },
+    {
+      "emoji": "🇿🇼",
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "phoneCountryCode": "+263",
+      "phoneMeta": {
+        "countryCallingCode": "+263",
+        "mobile": {
+          "possibleLengths": [
+            9
+          ],
+          "minLength": 9,
+          "maxLength": 9,
+          "exampleNational": "712345678",
+          "exampleInternational": "+263 712345678"
+        }
+      }
+    }
+  ]
+}
