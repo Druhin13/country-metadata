@@ -9,20 +9,24 @@
       "phoneMeta": {
         "countryCallingCode": "+93",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [7, 9],
+            "minLength": 7,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "234567890",
-            "exampleInternational": "+93 234567890"
+            "exampleInternational": "+93 23 456 7890"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "701234567",
-            "exampleInternational": "+93 701234567"
+            "exampleInternational": "+93 70 123 4567"
           }
         }
       }
@@ -37,23 +41,23 @@
         "countryCallingCode": "+355",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
+            "possibleLengths": [5, 6, 7, 8, 9],
+            "minLength": 5,
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [5, 6, 7, 8, 9],
+            "minLength": 5,
+            "maxLength": 9,
             "exampleNational": "22345678",
-            "exampleInternational": "+355 22345678"
+            "exampleInternational": "+355 22 345 678"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9],
+            "minLength": 5,
             "maxLength": 9,
             "exampleNational": "672123456",
-            "exampleInternational": "+355 672123456"
+            "exampleInternational": "+355 67 212 3456"
           }
         }
       }
@@ -77,14 +81,14 @@
             "minLength": 8,
             "maxLength": 9,
             "exampleNational": "12345678",
-            "exampleInternational": "+213 12345678"
+            "exampleInternational": "+213 12 34 56 78"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [8, 9],
+            "minLength": 8,
             "maxLength": 9,
             "exampleNational": "551234567",
-            "exampleInternational": "+213 551234567"
+            "exampleInternational": "+213 551 23 45 67"
           }
         }
       }
@@ -99,23 +103,23 @@
         "countryCallingCode": "+376",
         "types": {
           "general": {
-            "possibleLengths": [6, 9],
+            "possibleLengths": [6, 8, 9],
             "minLength": 6,
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [6],
+            "possibleLengths": [6, 8, 9],
             "minLength": 6,
-            "maxLength": 6,
+            "maxLength": 9,
             "exampleNational": "712345",
-            "exampleInternational": "+376 712345"
+            "exampleInternational": "+376 712 345"
           },
           "mobile": {
-            "possibleLengths": [6, 9],
+            "possibleLengths": [6, 8, 9],
             "minLength": 6,
             "maxLength": 9,
             "exampleNational": "312345",
-            "exampleInternational": "+376 312345"
+            "exampleInternational": "+376 312 345"
           }
         }
       }
@@ -129,20 +133,24 @@
       "phoneMeta": {
         "countryCallingCode": "+244",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [9],
+            "minLength": 9,
+            "maxLength": 9
+          },
           "fixedLine": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "222123456",
-            "exampleInternational": "+244 222123456"
+            "exampleInternational": "+244 222 123 456"
           },
           "mobile": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "923123456",
-            "exampleInternational": "+244 923123456"
+            "exampleInternational": "+244 923 123 456"
           }
         }
       }
@@ -157,23 +165,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "2684601234",
-            "exampleInternational": "+1 2684601234"
+            "exampleInternational": "+1 268-460-1234"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "2684641234",
-            "exampleInternational": "+1 2684641234"
+            "exampleInternational": "+1 268-464-1234"
           }
         }
       }
@@ -188,23 +196,23 @@
         "countryCallingCode": "+54",
         "types": {
           "general": {
-            "possibleLengths": [10, 11],
-            "minLength": 10,
+            "possibleLengths": [6, 7, 8, 10, 11],
+            "minLength": 6,
             "maxLength": 11
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [6, 7, 8, 10, 11],
+            "minLength": 6,
+            "maxLength": 11,
             "exampleNational": "1123456789",
-            "exampleInternational": "+54 1123456789"
+            "exampleInternational": "+54 11 2345-6789"
           },
           "mobile": {
-            "possibleLengths": [10, 11],
-            "minLength": 10,
+            "possibleLengths": [6, 7, 8, 10, 11],
+            "minLength": 6,
             "maxLength": 11,
             "exampleNational": "91123456789",
-            "exampleInternational": "+54 91123456789"
+            "exampleInternational": "+54 9 11 2345-6789"
           }
         }
       }
@@ -218,20 +226,24 @@
       "phoneMeta": {
         "countryCallingCode": "+374",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [5, 6, 8],
+            "minLength": 5,
+            "maxLength": 8
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [5, 6, 8],
+            "minLength": 5,
             "maxLength": 8,
             "exampleNational": "10123456",
-            "exampleInternational": "+374 10123456"
+            "exampleInternational": "+374 10 123456"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [5, 6, 8],
+            "minLength": 5,
             "maxLength": 8,
             "exampleNational": "77123456",
-            "exampleInternational": "+374 77123456"
+            "exampleInternational": "+374 77 123456"
           }
         }
       }
@@ -245,20 +257,24 @@
       "phoneMeta": {
         "countryCallingCode": "+61",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 12],
+            "minLength": 5,
+            "maxLength": 12
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 12],
+            "minLength": 5,
+            "maxLength": 12,
             "exampleNational": "212345678",
-            "exampleInternational": "+61 212345678"
+            "exampleInternational": "+61 2 1234 5678"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 12],
+            "minLength": 5,
+            "maxLength": 12,
             "exampleNational": "412345678",
-            "exampleInternational": "+61 412345678"
+            "exampleInternational": "+61 412 345 678"
           }
         }
       }
@@ -272,18 +288,24 @@
       "phoneMeta": {
         "countryCallingCode": "+43",
         "types": {
-          "general": { "minLength": null, "maxLength": null },
+          "general": {
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+            "minLength": 4,
+            "maxLength": 13
+          },
           "fixedLine": {
-            "minLength": null,
-            "maxLength": null,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+            "minLength": 4,
+            "maxLength": 13,
             "exampleNational": "1234567890",
-            "exampleInternational": "+43 1234567890"
+            "exampleInternational": "+43 1 234567890"
           },
           "mobile": {
-            "minLength": null,
-            "maxLength": null,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+            "minLength": 4,
+            "maxLength": 13,
             "exampleNational": "664123456",
-            "exampleInternational": "+43 664123456"
+            "exampleInternational": "+43 664 123456"
           }
         }
       }
@@ -297,20 +319,24 @@
       "phoneMeta": {
         "countryCallingCode": "+994",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [7, 9],
+            "minLength": 7,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "123123456",
-            "exampleInternational": "+994 123123456"
+            "exampleInternational": "+994 12 312 34 56"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "401234567",
-            "exampleInternational": "+994 401234567"
+            "exampleInternational": "+994 40 123 45 67"
           }
         }
       }
@@ -325,23 +351,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "2423456789",
-            "exampleInternational": "+1 2423456789"
+            "exampleInternational": "+1 242-345-6789"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "2423591234",
-            "exampleInternational": "+1 2423591234"
+            "exampleInternational": "+1 242-359-1234"
           }
         }
       }
@@ -355,20 +381,24 @@
       "phoneMeta": {
         "countryCallingCode": "+973",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "17001234",
-            "exampleInternational": "+973 17001234"
+            "exampleInternational": "+973 1700 1234"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "36001234",
-            "exampleInternational": "+973 36001234"
+            "exampleInternational": "+973 3600 1234"
           }
         }
       }
@@ -383,23 +413,23 @@
         "countryCallingCode": "+880",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
             "maxLength": 10,
             "exampleNational": "27111234",
-            "exampleInternational": "+880 27111234"
+            "exampleInternational": "+880 2-7111234"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
             "maxLength": 10,
             "exampleNational": "1812345678",
-            "exampleInternational": "+880 1812345678"
+            "exampleInternational": "+880 1812-345678"
           }
         }
       }
@@ -414,23 +444,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "2464123456",
-            "exampleInternational": "+1 2464123456"
+            "exampleInternational": "+1 246-412-3456"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "2462501234",
-            "exampleInternational": "+1 2462501234"
+            "exampleInternational": "+1 246-250-1234"
           }
         }
       }
@@ -444,20 +474,24 @@
       "phoneMeta": {
         "countryCallingCode": "+375",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11],
+            "minLength": 5,
+            "maxLength": 11
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11],
+            "minLength": 5,
+            "maxLength": 11,
             "exampleNational": "152450911",
-            "exampleInternational": "+375 152450911"
+            "exampleInternational": "+375 152 45-09-11"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11],
+            "minLength": 5,
+            "maxLength": 11,
             "exampleNational": "294911911",
-            "exampleInternational": "+375 294911911"
+            "exampleInternational": "+375 29 491-19-11"
           }
         }
       }
@@ -477,18 +511,18 @@
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8],
+            "possibleLengths": [8, 9],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 9,
             "exampleNational": "12345678",
-            "exampleInternational": "+32 12345678"
+            "exampleInternational": "+32 12 34 56 78"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [8, 9],
+            "minLength": 8,
             "maxLength": 9,
-            "exampleNational": "450001234",
-            "exampleInternational": "+32 450001234"
+            "exampleNational": "470123456",
+            "exampleInternational": "+32 470 12 34 56"
           }
         }
       }
@@ -502,20 +536,24 @@
       "phoneMeta": {
         "countryCallingCode": "+501",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
-          "fixedLine": {
-            "possibleLengths": [7],
+          "general": {
+            "possibleLengths": [7, 11],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 11
+          },
+          "fixedLine": {
+            "possibleLengths": [7, 11],
+            "minLength": 7,
+            "maxLength": 11,
             "exampleNational": "2221234",
-            "exampleInternational": "+501 2221234"
+            "exampleInternational": "+501 222-1234"
           },
           "mobile": {
-            "possibleLengths": [7],
+            "possibleLengths": [7, 11],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 11,
             "exampleNational": "6221234",
-            "exampleInternational": "+501 6221234"
+            "exampleInternational": "+501 622-1234"
           }
         }
       }
@@ -530,23 +568,23 @@
         "countryCallingCode": "+229",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [8, 10],
+            "minLength": 8,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [8, 10],
+            "minLength": 8,
             "maxLength": 10,
             "exampleNational": "0120211234",
-            "exampleInternational": "+229 0120211234"
+            "exampleInternational": "+229 01 20 21 12 34"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [8, 10],
+            "minLength": 8,
             "maxLength": 10,
             "exampleNational": "0195123456",
-            "exampleInternational": "+229 0195123456"
+            "exampleInternational": "+229 01 95 12 34 56"
           }
         }
       }
@@ -561,23 +599,23 @@
         "countryCallingCode": "+975",
         "types": {
           "general": {
-            "possibleLengths": [7, 8],
-            "minLength": 7,
+            "possibleLengths": [6, 7, 8],
+            "minLength": 6,
             "maxLength": 8
           },
           "fixedLine": {
-            "possibleLengths": [7],
-            "minLength": 7,
-            "maxLength": 7,
+            "possibleLengths": [6, 7, 8],
+            "minLength": 6,
+            "maxLength": 8,
             "exampleNational": "2345678",
-            "exampleInternational": "+975 2345678"
+            "exampleInternational": "+975 2 345 678"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8],
+            "minLength": 6,
             "maxLength": 8,
             "exampleNational": "17123456",
-            "exampleInternational": "+975 17123456"
+            "exampleInternational": "+975 17 12 34 56"
           }
         }
       }
@@ -591,18 +629,22 @@
       "phoneMeta": {
         "countryCallingCode": "+591",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [7, 8, 9],
+            "minLength": 7,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 9],
+            "minLength": 7,
+            "maxLength": 9,
             "exampleNational": "22123456",
-            "exampleInternational": "+591 22123456"
+            "exampleInternational": "+591 2 2123456"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 9],
+            "minLength": 7,
+            "maxLength": 9,
             "exampleNational": "71234567",
             "exampleInternational": "+591 71234567"
           }
@@ -619,23 +661,23 @@
         "countryCallingCode": "+387",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
+            "possibleLengths": [6, 8, 9],
+            "minLength": 6,
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [6, 8, 9],
+            "minLength": 6,
+            "maxLength": 9,
             "exampleNational": "30212345",
-            "exampleInternational": "+387 30212345"
+            "exampleInternational": "+387 30 212-345"
           },
           "mobile": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
+            "possibleLengths": [6, 8, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "61123456",
-            "exampleInternational": "+387 61123456"
+            "exampleInternational": "+387 61 123 456"
           }
         }
       }
@@ -650,23 +692,23 @@
         "countryCallingCode": "+267",
         "types": {
           "general": {
-            "possibleLengths": [7, 8],
+            "possibleLengths": [7, 8, 10],
             "minLength": 7,
-            "maxLength": 8
+            "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [7],
+            "possibleLengths": [7, 8, 10],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 10,
             "exampleNational": "2401234",
-            "exampleInternational": "+267 2401234"
+            "exampleInternational": "+267 240 1234"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 10],
+            "minLength": 7,
+            "maxLength": 10,
             "exampleNational": "71123456",
-            "exampleInternational": "+267 71123456"
+            "exampleInternational": "+267 71 123 456"
           }
         }
       }
@@ -681,23 +723,23 @@
         "countryCallingCode": "+55",
         "types": {
           "general": {
-            "possibleLengths": [10, 11],
-            "minLength": 10,
+            "possibleLengths": [8, 9, 10, 11],
+            "minLength": 8,
             "maxLength": 11
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [8, 9, 10, 11],
+            "minLength": 8,
+            "maxLength": 11,
             "exampleNational": "1123456789",
-            "exampleInternational": "+55 1123456789"
+            "exampleInternational": "+55 11 2345-6789"
           },
           "mobile": {
-            "possibleLengths": [10, 11],
-            "minLength": 10,
+            "possibleLengths": [8, 9, 10, 11],
+            "minLength": 8,
             "maxLength": 11,
             "exampleNational": "11961234567",
-            "exampleInternational": "+55 11961234567"
+            "exampleInternational": "+55 11 96123-4567"
           }
         }
       }
@@ -711,20 +753,24 @@
       "phoneMeta": {
         "countryCallingCode": "+673",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
+          "general": {
+            "possibleLengths": [7],
+            "minLength": 7,
+            "maxLength": 7
+          },
           "fixedLine": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "2345678",
-            "exampleInternational": "+673 2345678"
+            "exampleInternational": "+673 234 5678"
           },
           "mobile": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "7123456",
-            "exampleInternational": "+673 7123456"
+            "exampleInternational": "+673 712 3456"
           }
         }
       }
@@ -739,23 +785,23 @@
         "countryCallingCode": "+359",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 12],
+            "minLength": 4,
+            "maxLength": 12
           },
           "fixedLine": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 12],
+            "minLength": 4,
+            "maxLength": 12,
             "exampleNational": "2123456",
-            "exampleInternational": "+359 2123456"
+            "exampleInternational": "+359 2 123 456"
           },
           "mobile": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 12],
+            "minLength": 4,
+            "maxLength": 12,
             "exampleNational": "43012345",
-            "exampleInternational": "+359 43012345"
+            "exampleInternational": "+359 43 012 345"
           }
         }
       }
@@ -769,20 +815,24 @@
       "phoneMeta": {
         "countryCallingCode": "+226",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "20491234",
-            "exampleInternational": "+226 20491234"
+            "exampleInternational": "+226 20 49 12 34"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "70123456",
-            "exampleInternational": "+226 70123456"
+            "exampleInternational": "+226 70 12 34 56"
           }
         }
       }
@@ -796,20 +846,24 @@
       "phoneMeta": {
         "countryCallingCode": "+257",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "22201234",
-            "exampleInternational": "+257 22201234"
+            "exampleInternational": "+257 22 20 12 34"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "79561234",
-            "exampleInternational": "+257 79561234"
+            "exampleInternational": "+257 79 56 12 34"
           }
         }
       }
@@ -823,20 +877,24 @@
       "phoneMeta": {
         "countryCallingCode": "+238",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
+          "general": {
+            "possibleLengths": [7],
+            "minLength": 7,
+            "maxLength": 7
+          },
           "fixedLine": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "2211234",
-            "exampleInternational": "+238 2211234"
+            "exampleInternational": "+238 221 12 34"
           },
           "mobile": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "9911234",
-            "exampleInternational": "+238 9911234"
+            "exampleInternational": "+238 991 12 34"
           }
         }
       }
@@ -851,23 +909,23 @@
         "countryCallingCode": "+855",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
+            "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
+            "maxLength": 10,
             "exampleNational": "23756789",
-            "exampleInternational": "+855 23756789"
+            "exampleInternational": "+855 23 756 789"
           },
           "mobile": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
+            "maxLength": 10,
             "exampleNational": "91234567",
-            "exampleInternational": "+855 91234567"
+            "exampleInternational": "+855 91 234 567"
           }
         }
       }
@@ -881,20 +939,24 @@
       "phoneMeta": {
         "countryCallingCode": "+237",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [8, 9],
+            "minLength": 8,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [8, 9],
+            "minLength": 8,
             "maxLength": 9,
             "exampleNational": "222123456",
-            "exampleInternational": "+237 222123456"
+            "exampleInternational": "+237 2 22 12 34 56"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [8, 9],
+            "minLength": 8,
             "maxLength": 9,
             "exampleNational": "671234567",
-            "exampleInternational": "+237 671234567"
+            "exampleInternational": "+237 6 71 23 45 67"
           }
         }
       }
@@ -909,23 +971,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "5062345678",
-            "exampleInternational": "+1 5062345678"
+            "exampleInternational": "+1 506-234-5678"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "5062345678",
-            "exampleInternational": "+1 5062345678"
+            "exampleInternational": "+1 506-234-5678"
           }
         }
       }
@@ -939,20 +1001,24 @@
       "phoneMeta": {
         "countryCallingCode": "+236",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "21612345",
-            "exampleInternational": "+236 21612345"
+            "exampleInternational": "+236 21 61 23 45"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "70012345",
-            "exampleInternational": "+236 70012345"
+            "exampleInternational": "+236 70 01 23 45"
           }
         }
       }
@@ -966,20 +1032,24 @@
       "phoneMeta": {
         "countryCallingCode": "+235",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "22501234",
-            "exampleInternational": "+235 22501234"
+            "exampleInternational": "+235 22 50 12 34"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "63012345",
-            "exampleInternational": "+235 63012345"
+            "exampleInternational": "+235 63 01 23 45"
           }
         }
       }
@@ -993,20 +1063,24 @@
       "phoneMeta": {
         "countryCallingCode": "+56",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
-          "fixedLine": {
-            "possibleLengths": [9],
+          "general": {
+            "possibleLengths": [9, 10, 11],
             "minLength": 9,
-            "maxLength": 9,
+            "maxLength": 11
+          },
+          "fixedLine": {
+            "possibleLengths": [9, 10, 11],
+            "minLength": 9,
+            "maxLength": 11,
             "exampleNational": "600123456",
-            "exampleInternational": "+56 600123456"
+            "exampleInternational": "+56 600 123 456"
           },
           "mobile": {
-            "possibleLengths": [9],
+            "possibleLengths": [9, 10, 11],
             "minLength": 9,
-            "maxLength": 9,
+            "maxLength": 11,
             "exampleNational": "221234567",
-            "exampleInternational": "+56 221234567"
+            "exampleInternational": "+56 2 2123 4567"
           }
         }
       }
@@ -1021,23 +1095,23 @@
         "countryCallingCode": "+86",
         "types": {
           "general": {
-            "possibleLengths": [11],
-            "minLength": 11,
-            "maxLength": 11
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 5,
+            "maxLength": 12
           },
           "fixedLine": {
-            "possibleLengths": [11],
-            "minLength": 11,
-            "maxLength": 11,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 5,
+            "maxLength": 12,
             "exampleNational": "1012345678",
-            "exampleInternational": "+86 1012345678"
+            "exampleInternational": "+86 10 1234 5678"
           },
           "mobile": {
-            "possibleLengths": [11],
-            "minLength": 11,
-            "maxLength": 11,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 5,
+            "maxLength": 12,
             "exampleNational": "13123456789",
-            "exampleInternational": "+86 13123456789"
+            "exampleInternational": "+86 131 2345 6789"
           }
         }
       }
@@ -1052,23 +1126,23 @@
         "countryCallingCode": "+57",
         "types": {
           "general": {
-            "possibleLengths": [8, 10],
-            "minLength": 8,
-            "maxLength": 10
+            "possibleLengths": [4, 7, 8, 10, 11],
+            "minLength": 4,
+            "maxLength": 11
           },
           "fixedLine": {
-            "possibleLengths": [8, 10],
-            "minLength": 8,
-            "maxLength": 10,
+            "possibleLengths": [4, 7, 8, 10, 11],
+            "minLength": 4,
+            "maxLength": 11,
             "exampleNational": "6012345678",
-            "exampleInternational": "+57 6012345678"
+            "exampleInternational": "+57 601 2345678"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [4, 7, 8, 10, 11],
+            "minLength": 4,
+            "maxLength": 11,
             "exampleNational": "3211234567",
-            "exampleInternational": "+57 3211234567"
+            "exampleInternational": "+57 321 1234567"
           }
         }
       }
@@ -1082,20 +1156,24 @@
       "phoneMeta": {
         "countryCallingCode": "+269",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
+          "general": {
+            "possibleLengths": [4, 7],
+            "minLength": 4,
+            "maxLength": 7
+          },
           "fixedLine": {
-            "possibleLengths": [7],
-            "minLength": 7,
+            "possibleLengths": [4, 7],
+            "minLength": 4,
             "maxLength": 7,
             "exampleNational": "7712345",
-            "exampleInternational": "+269 7712345"
+            "exampleInternational": "+269 771 23 45"
           },
           "mobile": {
-            "possibleLengths": [7],
-            "minLength": 7,
+            "possibleLengths": [4, 7],
+            "minLength": 4,
             "maxLength": 7,
             "exampleNational": "3212345",
-            "exampleInternational": "+269 3212345"
+            "exampleInternational": "+269 321 23 45"
           }
         }
       }
@@ -1109,20 +1187,24 @@
       "phoneMeta": {
         "countryCallingCode": "+242",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [9],
+            "minLength": 9,
+            "maxLength": 9
+          },
           "fixedLine": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "222123456",
-            "exampleInternational": "+242 222123456"
+            "exampleInternational": "+242 22 212 3456"
           },
           "mobile": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "061234567",
-            "exampleInternational": "+242 061234567"
+            "exampleInternational": "+242 06 123 4567"
           }
         }
       }
@@ -1136,20 +1218,24 @@
       "phoneMeta": {
         "countryCallingCode": "+506",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
-          "fixedLine": {
-            "possibleLengths": [8],
+          "general": {
+            "possibleLengths": [8, 10],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 10
+          },
+          "fixedLine": {
+            "possibleLengths": [8, 10],
+            "minLength": 8,
+            "maxLength": 10,
             "exampleNational": "22123456",
-            "exampleInternational": "+506 22123456"
+            "exampleInternational": "+506 2212 3456"
           },
           "mobile": {
-            "possibleLengths": [8],
+            "possibleLengths": [8, 10],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 10,
             "exampleNational": "83123456",
-            "exampleInternational": "+506 83123456"
+            "exampleInternational": "+506 8312 3456"
           }
         }
       }
@@ -1164,23 +1250,23 @@
         "countryCallingCode": "+385",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "12345678",
-            "exampleInternational": "+385 12345678"
+            "exampleInternational": "+385 1 2345 678"
           },
           "mobile": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "921234567",
-            "exampleInternational": "+385 921234567"
+            "exampleInternational": "+385 92 123 4567"
           }
         }
       }
@@ -1195,23 +1281,23 @@
         "countryCallingCode": "+53",
         "types": {
           "general": {
-            "possibleLengths": [8, 10],
-            "minLength": 8,
+            "possibleLengths": [4, 5, 6, 7, 8, 10],
+            "minLength": 4,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [4, 5, 6, 7, 8, 10],
+            "minLength": 4,
             "maxLength": 10,
             "exampleNational": "71234567",
-            "exampleInternational": "+53 71234567"
+            "exampleInternational": "+53 7 1234567"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [4, 5, 6, 7, 8, 10],
+            "minLength": 4,
+            "maxLength": 10,
             "exampleNational": "51234567",
-            "exampleInternational": "+53 51234567"
+            "exampleInternational": "+53 5 1234567"
           }
         }
       }
@@ -1225,20 +1311,24 @@
       "phoneMeta": {
         "countryCallingCode": "+357",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "22345678",
-            "exampleInternational": "+357 22345678"
+            "exampleInternational": "+357 22 345678"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "96123456",
-            "exampleInternational": "+357 96123456"
+            "exampleInternational": "+357 96 123456"
           }
         }
       }
@@ -1252,20 +1342,24 @@
       "phoneMeta": {
         "countryCallingCode": "+420",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
-          "fixedLine": {
-            "possibleLengths": [9],
+          "general": {
+            "possibleLengths": [9, 10, 11, 12],
             "minLength": 9,
-            "maxLength": 9,
+            "maxLength": 12
+          },
+          "fixedLine": {
+            "possibleLengths": [9, 10, 11, 12],
+            "minLength": 9,
+            "maxLength": 12,
             "exampleNational": "212345678",
-            "exampleInternational": "+420 212345678"
+            "exampleInternational": "+420 212 345 678"
           },
           "mobile": {
-            "possibleLengths": [9],
+            "possibleLengths": [9, 10, 11, 12],
             "minLength": 9,
-            "maxLength": 9,
+            "maxLength": 12,
             "exampleNational": "601123456",
-            "exampleInternational": "+420 601123456"
+            "exampleInternational": "+420 601 123 456"
           }
         }
       }
@@ -1280,23 +1374,23 @@
         "countryCallingCode": "+243",
         "types": {
           "general": {
-            "possibleLengths": [7, 9],
+            "possibleLengths": [7, 8, 9, 10],
             "minLength": 7,
-            "maxLength": 9
+            "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [7, 9],
+            "possibleLengths": [7, 8, 9, 10],
             "minLength": 7,
-            "maxLength": 9,
+            "maxLength": 10,
             "exampleNational": "1234567",
-            "exampleInternational": "+243 1234567"
+            "exampleInternational": "+243 12 34567"
           },
           "mobile": {
-            "possibleLengths": [7, 9],
+            "possibleLengths": [7, 8, 9, 10],
             "minLength": 7,
-            "maxLength": 9,
+            "maxLength": 10,
             "exampleNational": "991234567",
-            "exampleInternational": "+243 991234567"
+            "exampleInternational": "+243 991 234 567"
           }
         }
       }
@@ -1310,20 +1404,24 @@
       "phoneMeta": {
         "countryCallingCode": "+45",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "32123456",
-            "exampleInternational": "+45 32123456"
+            "exampleInternational": "+45 32 12 34 56"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "34412345",
-            "exampleInternational": "+45 34412345"
+            "exampleInternational": "+45 34 41 23 45"
           }
         }
       }
@@ -1337,20 +1435,24 @@
       "phoneMeta": {
         "countryCallingCode": "+253",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "21360003",
-            "exampleInternational": "+253 21360003"
+            "exampleInternational": "+253 21 36 00 03"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "77831001",
-            "exampleInternational": "+253 77831001"
+            "exampleInternational": "+253 77 83 10 01"
           }
         }
       }
@@ -1365,23 +1467,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "7674201234",
-            "exampleInternational": "+1 7674201234"
+            "exampleInternational": "+1 767-420-1234"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "7672251234",
-            "exampleInternational": "+1 7672251234"
+            "exampleInternational": "+1 767-225-1234"
           }
         }
       }
@@ -1396,23 +1498,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "8092345678",
-            "exampleInternational": "+1 8092345678"
+            "exampleInternational": "+1 809-234-5678"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "8092345678",
-            "exampleInternational": "+1 8092345678"
+            "exampleInternational": "+1 809-234-5678"
           }
         }
       }
@@ -1427,23 +1529,23 @@
         "countryCallingCode": "+593",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9
+            "possibleLengths": [7, 8, 9, 10, 11],
+            "minLength": 7,
+            "maxLength": 11
           },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 9, 10, 11],
+            "minLength": 7,
+            "maxLength": 11,
             "exampleNational": "22123456",
-            "exampleInternational": "+593 22123456"
+            "exampleInternational": "+593 2-212-3456"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [7, 8, 9, 10, 11],
+            "minLength": 7,
+            "maxLength": 11,
             "exampleNational": "991234567",
-            "exampleInternational": "+593 991234567"
+            "exampleInternational": "+593 99 123 4567"
           }
         }
       }
@@ -1458,23 +1560,23 @@
         "countryCallingCode": "+20",
         "types": {
           "general": {
-            "possibleLengths": [8, 9, 10],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
+            "maxLength": 10,
             "exampleNational": "234567890",
-            "exampleInternational": "+20 234567890"
+            "exampleInternational": "+20 2 34567890"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
             "maxLength": 10,
             "exampleNational": "1001234567",
-            "exampleInternational": "+20 1001234567"
+            "exampleInternational": "+20 10 01234567"
           }
         }
       }
@@ -1488,20 +1590,24 @@
       "phoneMeta": {
         "countryCallingCode": "+503",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [7, 8, 11],
+            "minLength": 7,
+            "maxLength": 11
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 11],
+            "minLength": 7,
+            "maxLength": 11,
             "exampleNational": "21234567",
-            "exampleInternational": "+503 21234567"
+            "exampleInternational": "+503 2123 4567"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 11],
+            "minLength": 7,
+            "maxLength": 11,
             "exampleNational": "70123456",
-            "exampleInternational": "+503 70123456"
+            "exampleInternational": "+503 7012 3456"
           }
         }
       }
@@ -1515,20 +1621,24 @@
       "phoneMeta": {
         "countryCallingCode": "+240",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [9],
+            "minLength": 9,
+            "maxLength": 9
+          },
           "fixedLine": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "333091234",
-            "exampleInternational": "+240 333091234"
+            "exampleInternational": "+240 333 091 234"
           },
           "mobile": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "222123456",
-            "exampleInternational": "+240 222123456"
+            "exampleInternational": "+240 222 123 456"
           }
         }
       }
@@ -1542,20 +1652,24 @@
       "phoneMeta": {
         "countryCallingCode": "+291",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
+          "general": {
+            "possibleLengths": [6, 7],
+            "minLength": 6,
+            "maxLength": 7
+          },
           "fixedLine": {
-            "possibleLengths": [7],
-            "minLength": 7,
+            "possibleLengths": [6, 7],
+            "minLength": 6,
             "maxLength": 7,
             "exampleNational": "8370362",
-            "exampleInternational": "+291 8370362"
+            "exampleInternational": "+291 8 370 362"
           },
           "mobile": {
-            "possibleLengths": [7],
-            "minLength": 7,
+            "possibleLengths": [6, 7],
+            "minLength": 6,
             "maxLength": 7,
             "exampleNational": "7123456",
-            "exampleInternational": "+291 7123456"
+            "exampleInternational": "+291 7 123 456"
           }
         }
       }
@@ -1570,23 +1684,23 @@
         "countryCallingCode": "+372",
         "types": {
           "general": {
-            "possibleLengths": [7, 8],
+            "possibleLengths": [7, 8, 10],
             "minLength": 7,
-            "maxLength": 8
+            "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [7],
+            "possibleLengths": [7, 8, 10],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 10,
             "exampleNational": "3212345",
-            "exampleInternational": "+372 3212345"
+            "exampleInternational": "+372 321 2345"
           },
           "mobile": {
-            "possibleLengths": [7, 8],
+            "possibleLengths": [7, 8, 10],
             "minLength": 7,
-            "maxLength": 8,
+            "maxLength": 10,
             "exampleNational": "51234567",
-            "exampleInternational": "+372 51234567"
+            "exampleInternational": "+372 5123 4567"
           }
         }
       }
@@ -1600,20 +1714,24 @@
       "phoneMeta": {
         "countryCallingCode": "+268",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
-          "fixedLine": {
-            "possibleLengths": [8],
+          "general": {
+            "possibleLengths": [8, 9],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 9
+          },
+          "fixedLine": {
+            "possibleLengths": [8, 9],
+            "minLength": 8,
+            "maxLength": 9,
             "exampleNational": "22171234",
-            "exampleInternational": "+268 22171234"
+            "exampleInternational": "+268 2217 1234"
           },
           "mobile": {
-            "possibleLengths": [8],
+            "possibleLengths": [8, 9],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 9,
             "exampleNational": "76123456",
-            "exampleInternational": "+268 76123456"
+            "exampleInternational": "+268 7612 3456"
           }
         }
       }
@@ -1627,20 +1745,24 @@
       "phoneMeta": {
         "countryCallingCode": "+251",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [7, 9],
+            "minLength": 7,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "111112345",
-            "exampleInternational": "+251 111112345"
+            "exampleInternational": "+251 11 111 2345"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "911234567",
-            "exampleInternational": "+251 911234567"
+            "exampleInternational": "+251 91 123 4567"
           }
         }
       }
@@ -1654,20 +1776,24 @@
       "phoneMeta": {
         "countryCallingCode": "+679",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
-          "fixedLine": {
-            "possibleLengths": [7],
+          "general": {
+            "possibleLengths": [7, 11],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 11
+          },
+          "fixedLine": {
+            "possibleLengths": [7, 11],
+            "minLength": 7,
+            "maxLength": 11,
             "exampleNational": "3212345",
-            "exampleInternational": "+679 3212345"
+            "exampleInternational": "+679 321 2345"
           },
           "mobile": {
-            "possibleLengths": [7],
+            "possibleLengths": [7, 11],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 11,
             "exampleNational": "7012345",
-            "exampleInternational": "+679 7012345"
+            "exampleInternational": "+679 701 2345"
           }
         }
       }
@@ -1681,18 +1807,24 @@
       "phoneMeta": {
         "countryCallingCode": "+358",
         "types": {
-          "general": { "minLength": null, "maxLength": null },
+          "general": {
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 5,
+            "maxLength": 12
+          },
           "fixedLine": {
-            "minLength": null,
-            "maxLength": null,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 5,
+            "maxLength": 12,
             "exampleNational": "131234567",
-            "exampleInternational": "+358 131234567"
+            "exampleInternational": "+358 13 1234567"
           },
           "mobile": {
-            "minLength": null,
-            "maxLength": null,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 5,
+            "maxLength": 12,
             "exampleNational": "412345678",
-            "exampleInternational": "+358 412345678"
+            "exampleInternational": "+358 41 2345678"
           }
         }
       }
@@ -1706,20 +1838,24 @@
       "phoneMeta": {
         "countryCallingCode": "+33",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [9],
+            "minLength": 9,
+            "maxLength": 9
+          },
           "fixedLine": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "123456789",
-            "exampleInternational": "+33 123456789"
+            "exampleInternational": "+33 1 23 45 67 89"
           },
           "mobile": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "612345678",
-            "exampleInternational": "+33 612345678"
+            "exampleInternational": "+33 6 12 34 56 78"
           }
         }
       }
@@ -1734,23 +1870,23 @@
         "countryCallingCode": "+241",
         "types": {
           "general": {
-            "possibleLengths": [7, 8],
+            "possibleLengths": [7, 8, 9],
             "minLength": 7,
-            "maxLength": 8
+            "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
-            "exampleNational": "01441234",
-            "exampleInternational": "+241 01441234"
-          },
-          "mobile": {
             "possibleLengths": [7, 8],
             "minLength": 7,
             "maxLength": 8,
+            "exampleNational": "01441234",
+            "exampleInternational": "+241 01 44 12 34"
+          },
+          "mobile": {
+            "possibleLengths": [7, 8, 9],
+            "minLength": 7,
+            "maxLength": 9,
             "exampleNational": "06031234",
-            "exampleInternational": "+241 06031234"
+            "exampleInternational": "+241 06 03 12 34"
           }
         }
       }
@@ -1764,20 +1900,24 @@
       "phoneMeta": {
         "countryCallingCode": "+220",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
+          "general": {
+            "possibleLengths": [7],
+            "minLength": 7,
+            "maxLength": 7
+          },
           "fixedLine": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "5661234",
-            "exampleInternational": "+220 5661234"
+            "exampleInternational": "+220 566 1234"
           },
           "mobile": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "3012345",
-            "exampleInternational": "+220 3012345"
+            "exampleInternational": "+220 301 2345"
           }
         }
       }
@@ -1791,20 +1931,24 @@
       "phoneMeta": {
         "countryCallingCode": "+995",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [6, 7, 9],
+            "minLength": 6,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [6, 7, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "322123456",
-            "exampleInternational": "+995 322123456"
+            "exampleInternational": "+995 32 212 34 56"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [6, 7, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "555123456",
-            "exampleInternational": "+995 555123456"
+            "exampleInternational": "+995 555 12 34 56"
           }
         }
       }
@@ -1819,23 +1963,23 @@
         "countryCallingCode": "+49",
         "types": {
           "general": {
-            "possibleLengths": [10, 11],
-            "minLength": 10,
-            "maxLength": 11
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+            "minLength": 4,
+            "maxLength": 15
           },
           "fixedLine": {
-            "possibleLengths": [10, 11],
-            "minLength": 10,
-            "maxLength": 11,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+            "minLength": 4,
+            "maxLength": 15,
             "exampleNational": "30123456",
-            "exampleInternational": "+49 30123456"
+            "exampleInternational": "+49 30 123456"
           },
           "mobile": {
-            "possibleLengths": [10, 11],
-            "minLength": 10,
-            "maxLength": 11,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+            "minLength": 4,
+            "maxLength": 15,
             "exampleNational": "15123456789",
-            "exampleInternational": "+49 15123456789"
+            "exampleInternational": "+49 1512 3456789"
           }
         }
       }
@@ -1849,20 +1993,24 @@
       "phoneMeta": {
         "countryCallingCode": "+233",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [7, 8, 9],
+            "minLength": 7,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 8, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "302345678",
-            "exampleInternational": "+233 302345678"
+            "exampleInternational": "+233 30 234 5678"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 8, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "231234567",
-            "exampleInternational": "+233 231234567"
+            "exampleInternational": "+233 23 123 4567"
           }
         }
       }
@@ -1877,23 +2025,23 @@
         "countryCallingCode": "+30",
         "types": {
           "general": {
-            "possibleLengths": [10],
+            "possibleLengths": [10, 11, 12],
             "minLength": 10,
-            "maxLength": 10
+            "maxLength": 12
           },
           "fixedLine": {
-            "possibleLengths": [10],
+            "possibleLengths": [10, 11, 12],
             "minLength": 10,
-            "maxLength": 10,
+            "maxLength": 12,
             "exampleNational": "2123456789",
-            "exampleInternational": "+30 2123456789"
+            "exampleInternational": "+30 21 2345 6789"
           },
           "mobile": {
-            "possibleLengths": [10],
+            "possibleLengths": [10, 11, 12],
             "minLength": 10,
-            "maxLength": 10,
+            "maxLength": 12,
             "exampleNational": "6912345678",
-            "exampleInternational": "+30 6912345678"
+            "exampleInternational": "+30 691 234 5678"
           }
         }
       }
@@ -1908,23 +2056,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "4732691234",
-            "exampleInternational": "+1 4732691234"
+            "exampleInternational": "+1 473-269-1234"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "4734031234",
-            "exampleInternational": "+1 4734031234"
+            "exampleInternational": "+1 473-403-1234"
           }
         }
       }
@@ -1938,20 +2086,24 @@
       "phoneMeta": {
         "countryCallingCode": "+502",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
-          "fixedLine": {
-            "possibleLengths": [8],
+          "general": {
+            "possibleLengths": [8, 11],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 11
+          },
+          "fixedLine": {
+            "possibleLengths": [8, 11],
+            "minLength": 8,
+            "maxLength": 11,
             "exampleNational": "22456789",
-            "exampleInternational": "+502 22456789"
+            "exampleInternational": "+502 2245 6789"
           },
           "mobile": {
-            "possibleLengths": [8],
+            "possibleLengths": [8, 11],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 11,
             "exampleNational": "51234567",
-            "exampleInternational": "+502 51234567"
+            "exampleInternational": "+502 5123 4567"
           }
         }
       }
@@ -1971,18 +2123,18 @@
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8],
+            "possibleLengths": [8, 9],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 9,
             "exampleNational": "30241234",
-            "exampleInternational": "+224 30241234"
+            "exampleInternational": "+224 30 24 12 34"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [8, 9],
+            "minLength": 8,
             "maxLength": 9,
             "exampleNational": "601123456",
-            "exampleInternational": "+224 601123456"
+            "exampleInternational": "+224 601 12 34 56"
           }
         }
       }
@@ -1996,20 +2148,24 @@
       "phoneMeta": {
         "countryCallingCode": "+245",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [7, 9],
+            "minLength": 7,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "443201234",
-            "exampleInternational": "+245 443201234"
+            "exampleInternational": "+245 443 201 234"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "955012345",
-            "exampleInternational": "+245 955012345"
+            "exampleInternational": "+245 955 012 345"
           }
         }
       }
@@ -2023,20 +2179,24 @@
       "phoneMeta": {
         "countryCallingCode": "+592",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
+          "general": {
+            "possibleLengths": [7],
+            "minLength": 7,
+            "maxLength": 7
+          },
           "fixedLine": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "2201234",
-            "exampleInternational": "+592 2201234"
+            "exampleInternational": "+592 220 1234"
           },
           "mobile": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "6091234",
-            "exampleInternational": "+592 6091234"
+            "exampleInternational": "+592 609 1234"
           }
         }
       }
@@ -2050,20 +2210,24 @@
       "phoneMeta": {
         "countryCallingCode": "+509",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "22453300",
-            "exampleInternational": "+509 22453300"
+            "exampleInternational": "+509 22 45 3300"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "34101234",
-            "exampleInternational": "+509 34101234"
+            "exampleInternational": "+509 34 10 1234"
           }
         }
       }
@@ -2077,20 +2241,24 @@
       "phoneMeta": {
         "countryCallingCode": "+504",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
-          "fixedLine": {
-            "possibleLengths": [8],
+          "general": {
+            "possibleLengths": [8, 11],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 11
+          },
+          "fixedLine": {
+            "possibleLengths": [8, 11],
+            "minLength": 8,
+            "maxLength": 11,
             "exampleNational": "22123456",
-            "exampleInternational": "+504 22123456"
+            "exampleInternational": "+504 2212-3456"
           },
           "mobile": {
-            "possibleLengths": [8],
+            "possibleLengths": [8, 11],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 11,
             "exampleNational": "91234567",
-            "exampleInternational": "+504 91234567"
+            "exampleInternational": "+504 9123-4567"
           }
         }
       }
@@ -2105,23 +2273,23 @@
         "countryCallingCode": "+36",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
+            "maxLength": 9,
             "exampleNational": "12345678",
-            "exampleInternational": "+36 12345678"
+            "exampleInternational": "+36 1 234 5678"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "201234567",
-            "exampleInternational": "+36 201234567"
+            "exampleInternational": "+36 20 123 4567"
           }
         }
       }
@@ -2141,18 +2309,18 @@
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [7],
+            "possibleLengths": [7, 9],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 9,
             "exampleNational": "4101234",
-            "exampleInternational": "+354 4101234"
+            "exampleInternational": "+354 410 1234"
           },
           "mobile": {
             "possibleLengths": [7, 9],
             "minLength": 7,
             "maxLength": 9,
             "exampleNational": "6111234",
-            "exampleInternational": "+354 6111234"
+            "exampleInternational": "+354 611 1234"
           }
         }
       }
@@ -2167,23 +2335,23 @@
         "countryCallingCode": "+91",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10
+            "possibleLengths": [6, 7, 8, 9, 10, 11, 12, 13],
+            "minLength": 6,
+            "maxLength": 13
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [6, 7, 8, 9, 10, 11, 12, 13],
+            "minLength": 6,
+            "maxLength": 13,
             "exampleNational": "7410410123",
-            "exampleInternational": "+91 7410410123"
+            "exampleInternational": "+91 74104 10123"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [6, 7, 8, 9, 10, 11, 12, 13],
+            "minLength": 6,
+            "maxLength": 13,
             "exampleNational": "8123456789",
-            "exampleInternational": "+91 8123456789"
+            "exampleInternational": "+91 81234 56789"
           }
         }
       }
@@ -2197,18 +2365,24 @@
       "phoneMeta": {
         "countryCallingCode": "+62",
         "types": {
-          "general": { "minLength": null, "maxLength": null },
+          "general": {
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+            "minLength": 5,
+            "maxLength": 15
+          },
           "fixedLine": {
-            "minLength": null,
-            "maxLength": null,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+            "minLength": 5,
+            "maxLength": 15,
             "exampleNational": "218350123",
-            "exampleInternational": "+62 218350123"
+            "exampleInternational": "+62 21 8350123"
           },
           "mobile": {
-            "minLength": null,
-            "maxLength": null,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+            "minLength": 5,
+            "maxLength": 15,
             "exampleNational": "812345678",
-            "exampleInternational": "+62 812345678"
+            "exampleInternational": "+62 812-345-678"
           }
         }
       }
@@ -2223,23 +2397,23 @@
         "countryCallingCode": "+98",
         "types": {
           "general": {
-            "possibleLengths": [6, 7, 10],
-            "minLength": 6,
+            "possibleLengths": [4, 5, 6, 7, 8, 10],
+            "minLength": 4,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [6, 7, 10],
-            "minLength": 6,
+            "possibleLengths": [4, 5, 6, 7, 8, 10],
+            "minLength": 4,
             "maxLength": 10,
             "exampleNational": "2123456789",
-            "exampleInternational": "+98 2123456789"
+            "exampleInternational": "+98 21 2345 6789"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [4, 5, 6, 7, 8, 10],
+            "minLength": 4,
             "maxLength": 10,
             "exampleNational": "9123456789",
-            "exampleInternational": "+98 9123456789"
+            "exampleInternational": "+98 912 345 6789"
           }
         }
       }
@@ -2254,23 +2428,23 @@
         "countryCallingCode": "+964",
         "types": {
           "general": {
-            "possibleLengths": [8, 9, 10],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
+            "maxLength": 10,
             "exampleNational": "12345678",
-            "exampleInternational": "+964 12345678"
+            "exampleInternational": "+964 1 234 5678"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
             "maxLength": 10,
             "exampleNational": "7912345678",
-            "exampleInternational": "+964 7912345678"
+            "exampleInternational": "+964 791 234 5678"
           }
         }
       }
@@ -2284,20 +2458,24 @@
       "phoneMeta": {
         "countryCallingCode": "+353",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [5, 6, 7, 8, 9, 10],
+            "minLength": 5,
+            "maxLength": 10
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10],
+            "minLength": 5,
+            "maxLength": 10,
             "exampleNational": "2212345",
-            "exampleInternational": "+353 2212345"
+            "exampleInternational": "+353 22 12345"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10],
+            "minLength": 5,
+            "maxLength": 10,
             "exampleNational": "850123456",
-            "exampleInternational": "+353 850123456"
+            "exampleInternational": "+353 85 012 3456"
           }
         }
       }
@@ -2312,23 +2490,23 @@
         "countryCallingCode": "+972",
         "types": {
           "general": {
-            "possibleLengths": [8, 9, 11, 12],
-            "minLength": 8,
+            "possibleLengths": [7, 8, 9, 10, 11, 12],
+            "minLength": 7,
             "maxLength": 12
           },
           "fixedLine": {
-            "possibleLengths": [8, 11, 12],
-            "minLength": 8,
+            "possibleLengths": [7, 8, 9, 10, 11, 12],
+            "minLength": 7,
             "maxLength": 12,
             "exampleNational": "21234567",
-            "exampleInternational": "+972 21234567"
+            "exampleInternational": "+972 2-123-4567"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [7, 8, 9, 10, 11, 12],
+            "minLength": 7,
+            "maxLength": 12,
             "exampleNational": "502345678",
-            "exampleInternational": "+972 502345678"
+            "exampleInternational": "+972 50-234-5678"
           }
         }
       }
@@ -2343,23 +2521,23 @@
         "countryCallingCode": "+39",
         "types": {
           "general": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
-            "maxLength": 10
+            "possibleLengths": [6, 7, 8, 9, 10, 11, 12],
+            "minLength": 6,
+            "maxLength": 12
           },
           "fixedLine": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
-            "maxLength": 10,
+            "possibleLengths": [6, 7, 8, 9, 10, 11, 12],
+            "minLength": 6,
+            "maxLength": 12,
             "exampleNational": "0212345678",
-            "exampleInternational": "+39 0212345678"
+            "exampleInternational": "+39 02 1234 5678"
           },
           "mobile": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
-            "maxLength": 10,
+            "possibleLengths": [6, 7, 8, 9, 10, 11, 12],
+            "minLength": 6,
+            "maxLength": 12,
             "exampleNational": "3123456789",
-            "exampleInternational": "+39 3123456789"
+            "exampleInternational": "+39 312 345 6789"
           }
         }
       }
@@ -2374,23 +2552,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "8765230123",
-            "exampleInternational": "+1 8765230123"
+            "exampleInternational": "+1 876-523-0123"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "8762101234",
-            "exampleInternational": "+1 8762101234"
+            "exampleInternational": "+1 876-210-1234"
           }
         }
       }
@@ -2405,23 +2583,23 @@
         "countryCallingCode": "+81",
         "types": {
           "general": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
-            "maxLength": 10
+            "possibleLengths": [8, 9, 10, 11, 12, 13, 14, 15],
+            "minLength": 8,
+            "maxLength": 15
           },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [8, 9, 10, 11, 12, 13, 14, 15],
+            "minLength": 8,
+            "maxLength": 15,
             "exampleNational": "312345678",
-            "exampleInternational": "+81 312345678"
+            "exampleInternational": "+81 3-1234-5678"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [8, 9, 10, 11, 12, 13, 14, 15],
+            "minLength": 8,
+            "maxLength": 15,
             "exampleNational": "9012345678",
-            "exampleInternational": "+81 9012345678"
+            "exampleInternational": "+81 90-1234-5678"
           }
         }
       }
@@ -2441,18 +2619,18 @@
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8],
+            "possibleLengths": [8, 9],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 9,
             "exampleNational": "62001234",
-            "exampleInternational": "+962 62001234"
+            "exampleInternational": "+962 6 200 1234"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [8, 9],
+            "minLength": 8,
             "maxLength": 9,
             "exampleNational": "790123456",
-            "exampleInternational": "+962 790123456"
+            "exampleInternational": "+962 7 9012 3456"
           }
         }
       }
@@ -2467,23 +2645,23 @@
         "countryCallingCode": "+7",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10
+            "possibleLengths": [7, 10, 11, 14, 15],
+            "minLength": 7,
+            "maxLength": 15
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [7, 10, 14, 15],
+            "minLength": 7,
+            "maxLength": 15,
             "exampleNational": "7123456789",
-            "exampleInternational": "+7 7123456789"
+            "exampleInternational": "+7 71234 5 67 89"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [7, 10, 11, 14, 15],
+            "minLength": 7,
+            "maxLength": 15,
             "exampleNational": "7710009998",
-            "exampleInternational": "+7 7710009998"
+            "exampleInternational": "+7 771 000 9998"
           }
         }
       }
@@ -2497,20 +2675,24 @@
       "phoneMeta": {
         "countryCallingCode": "+254",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [7, 8, 9, 10],
+            "minLength": 7,
+            "maxLength": 10
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [7, 8, 9, 10],
+            "minLength": 7,
+            "maxLength": 10,
             "exampleNational": "202012345",
-            "exampleInternational": "+254 202012345"
+            "exampleInternational": "+254 20 2012345"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [7, 8, 9, 10],
+            "minLength": 7,
+            "maxLength": 10,
             "exampleNational": "712123456",
-            "exampleInternational": "+254 712123456"
+            "exampleInternational": "+254 712 123456"
           }
         }
       }
@@ -2537,8 +2719,8 @@
             "exampleInternational": "+686 31234"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [5, 8],
+            "minLength": 5,
             "maxLength": 8,
             "exampleNational": "72001234",
             "exampleInternational": "+686 72001234"
@@ -2555,20 +2737,24 @@
       "phoneMeta": {
         "countryCallingCode": "+965",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [7, 8],
+            "minLength": 7,
+            "maxLength": 8
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [7, 8],
+            "minLength": 7,
             "maxLength": 8,
             "exampleNational": "22345678",
-            "exampleInternational": "+965 22345678"
+            "exampleInternational": "+965 2234 5678"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [7, 8],
+            "minLength": 7,
             "maxLength": 8,
             "exampleNational": "50012345",
-            "exampleInternational": "+965 50012345"
+            "exampleInternational": "+965 500 12345"
           }
         }
       }
@@ -2582,20 +2768,24 @@
       "phoneMeta": {
         "countryCallingCode": "+996",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [5, 6, 9, 10],
+            "minLength": 5,
+            "maxLength": 10
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 9, 10],
+            "minLength": 5,
+            "maxLength": 10,
             "exampleNational": "312123456",
-            "exampleInternational": "+996 312123456"
+            "exampleInternational": "+996 312 123 456"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 9, 10],
+            "minLength": 5,
+            "maxLength": 10,
             "exampleNational": "700123456",
-            "exampleInternational": "+996 700123456"
+            "exampleInternational": "+996 700 123 456"
           }
         }
       }
@@ -2610,23 +2800,23 @@
         "countryCallingCode": "+856",
         "types": {
           "general": {
-            "possibleLengths": [8, 9, 10],
-            "minLength": 8,
+            "possibleLengths": [6, 8, 9, 10],
+            "minLength": 6,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [6, 8, 9, 10],
+            "minLength": 6,
+            "maxLength": 10,
             "exampleNational": "21212862",
-            "exampleInternational": "+856 21212862"
+            "exampleInternational": "+856 21 212 862"
           },
           "mobile": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
+            "possibleLengths": [6, 8, 9, 10],
+            "minLength": 6,
             "maxLength": 10,
             "exampleNational": "2023123456",
-            "exampleInternational": "+856 2023123456"
+            "exampleInternational": "+856 20 23 123 456"
           }
         }
       }
@@ -2640,20 +2830,24 @@
       "phoneMeta": {
         "countryCallingCode": "+371",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "63123456",
-            "exampleInternational": "+371 63123456"
+            "exampleInternational": "+371 63 123 456"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "21234567",
-            "exampleInternational": "+371 21234567"
+            "exampleInternational": "+371 21 234 567"
           }
         }
       }
@@ -2677,14 +2871,14 @@
             "minLength": 7,
             "maxLength": 8,
             "exampleNational": "1123456",
-            "exampleInternational": "+961 1123456"
+            "exampleInternational": "+961 1 123 456"
           },
           "mobile": {
             "possibleLengths": [7, 8],
             "minLength": 7,
             "maxLength": 8,
             "exampleNational": "71123456",
-            "exampleInternational": "+961 71123456"
+            "exampleInternational": "+961 71 123 456"
           }
         }
       }
@@ -2698,20 +2892,24 @@
       "phoneMeta": {
         "countryCallingCode": "+266",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "22123456",
-            "exampleInternational": "+266 22123456"
+            "exampleInternational": "+266 2212 3456"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "50123456",
-            "exampleInternational": "+266 50123456"
+            "exampleInternational": "+266 5012 3456"
           }
         }
       }
@@ -2731,18 +2929,18 @@
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 9],
+            "minLength": 7,
+            "maxLength": 9,
             "exampleNational": "21234567",
-            "exampleInternational": "+231 21234567"
+            "exampleInternational": "+231 21 234 567"
           },
           "mobile": {
-            "possibleLengths": [7, 9],
+            "possibleLengths": [7, 8, 9],
             "minLength": 7,
             "maxLength": 9,
             "exampleNational": "770123456",
-            "exampleInternational": "+231 770123456"
+            "exampleInternational": "+231 77 012 3456"
           }
         }
       }
@@ -2756,20 +2954,24 @@
       "phoneMeta": {
         "countryCallingCode": "+218",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [7, 9],
+            "minLength": 7,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "212345678",
-            "exampleInternational": "+218 212345678"
+            "exampleInternational": "+218 21-2345678"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "912345678",
-            "exampleInternational": "+218 912345678"
+            "exampleInternational": "+218 91-2345678"
           }
         }
       }
@@ -2789,18 +2991,18 @@
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [7],
+            "possibleLengths": [7, 9],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 9,
             "exampleNational": "2345678",
-            "exampleInternational": "+423 2345678"
+            "exampleInternational": "+423 234 56 78"
           },
           "mobile": {
             "possibleLengths": [7, 9],
             "minLength": 7,
             "maxLength": 9,
             "exampleNational": "660234567",
-            "exampleInternational": "+423 660234567"
+            "exampleInternational": "+423 660 234 567"
           }
         }
       }
@@ -2814,20 +3016,24 @@
       "phoneMeta": {
         "countryCallingCode": "+370",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "31234567",
-            "exampleInternational": "+370 31234567"
+            "exampleInternational": "+370 312 34567"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "61234567",
-            "exampleInternational": "+370 61234567"
+            "exampleInternational": "+370 612 34567"
           }
         }
       }
@@ -2841,20 +3047,24 @@
       "phoneMeta": {
         "countryCallingCode": "+352",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11],
+            "minLength": 4,
+            "maxLength": 11
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11],
+            "minLength": 4,
+            "maxLength": 11,
             "exampleNational": "27123456",
-            "exampleInternational": "+352 27123456"
+            "exampleInternational": "+352 27 12 34 56"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11],
+            "minLength": 4,
+            "maxLength": 11,
             "exampleNational": "628123456",
-            "exampleInternational": "+352 628123456"
+            "exampleInternational": "+352 628 123 456"
           }
         }
       }
@@ -2868,20 +3078,24 @@
       "phoneMeta": {
         "countryCallingCode": "+261",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [7, 9],
+            "minLength": 7,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "202123456",
-            "exampleInternational": "+261 202123456"
+            "exampleInternational": "+261 20 21 234 56"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "321234567",
-            "exampleInternational": "+261 321234567"
+            "exampleInternational": "+261 32 12 345 67"
           }
         }
       }
@@ -2905,14 +3119,14 @@
             "minLength": 7,
             "maxLength": 9,
             "exampleNational": "1234567",
-            "exampleInternational": "+265 1234567"
+            "exampleInternational": "+265 1 234 567"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "991234567",
-            "exampleInternational": "+265 991234567"
+            "exampleInternational": "+265 991 23 45 67"
           }
         }
       }
@@ -2927,23 +3141,23 @@
         "countryCallingCode": "+60",
         "types": {
           "general": {
-            "possibleLengths": [8, 9, 10],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
+            "maxLength": 10,
             "exampleNational": "323856789",
-            "exampleInternational": "+60 323856789"
+            "exampleInternational": "+60 3-2385 6789"
           },
           "mobile": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
             "maxLength": 10,
             "exampleNational": "123456789",
-            "exampleInternational": "+60 123456789"
+            "exampleInternational": "+60 12-345 6789"
           }
         }
       }
@@ -2957,20 +3171,24 @@
       "phoneMeta": {
         "countryCallingCode": "+960",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
-          "fixedLine": {
-            "possibleLengths": [7],
+          "general": {
+            "possibleLengths": [7, 10],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 10
+          },
+          "fixedLine": {
+            "possibleLengths": [7, 10],
+            "minLength": 7,
+            "maxLength": 10,
             "exampleNational": "6701234",
-            "exampleInternational": "+960 6701234"
+            "exampleInternational": "+960 670-1234"
           },
           "mobile": {
-            "possibleLengths": [7],
+            "possibleLengths": [7, 10],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 10,
             "exampleNational": "7712345",
-            "exampleInternational": "+960 7712345"
+            "exampleInternational": "+960 771-2345"
           }
         }
       }
@@ -2984,20 +3202,24 @@
       "phoneMeta": {
         "countryCallingCode": "+223",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "20212345",
-            "exampleInternational": "+223 20212345"
+            "exampleInternational": "+223 20 21 23 45"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "65012345",
-            "exampleInternational": "+223 65012345"
+            "exampleInternational": "+223 65 01 23 45"
           }
         }
       }
@@ -3011,20 +3233,24 @@
       "phoneMeta": {
         "countryCallingCode": "+356",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "21001234",
-            "exampleInternational": "+356 21001234"
+            "exampleInternational": "+356 2100 1234"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "96961234",
-            "exampleInternational": "+356 96961234"
+            "exampleInternational": "+356 9696 1234"
           }
         }
       }
@@ -3038,20 +3264,24 @@
       "phoneMeta": {
         "countryCallingCode": "+692",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
+          "general": {
+            "possibleLengths": [7],
+            "minLength": 7,
+            "maxLength": 7
+          },
           "fixedLine": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "2471234",
-            "exampleInternational": "+692 2471234"
+            "exampleInternational": "+692 247-1234"
           },
           "mobile": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "2351234",
-            "exampleInternational": "+692 2351234"
+            "exampleInternational": "+692 235-1234"
           }
         }
       }
@@ -3065,20 +3295,24 @@
       "phoneMeta": {
         "countryCallingCode": "+222",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "35123456",
-            "exampleInternational": "+222 35123456"
+            "exampleInternational": "+222 35 12 34 56"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "22123456",
-            "exampleInternational": "+222 22123456"
+            "exampleInternational": "+222 22 12 34 56"
           }
         }
       }
@@ -3093,23 +3327,23 @@
         "countryCallingCode": "+230",
         "types": {
           "general": {
-            "possibleLengths": [7, 8],
+            "possibleLengths": [7, 8, 10],
             "minLength": 7,
-            "maxLength": 8
+            "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [7, 8],
+            "possibleLengths": [7, 8, 10],
             "minLength": 7,
-            "maxLength": 8,
+            "maxLength": 10,
             "exampleNational": "54480123",
-            "exampleInternational": "+230 54480123"
+            "exampleInternational": "+230 5448 0123"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 10],
+            "minLength": 7,
+            "maxLength": 10,
             "exampleNational": "52512345",
-            "exampleInternational": "+230 52512345"
+            "exampleInternational": "+230 5251 2345"
           }
         }
       }
@@ -3124,23 +3358,23 @@
         "countryCallingCode": "+52",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 8, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 8, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "2001234567",
-            "exampleInternational": "+52 2001234567"
+            "exampleInternational": "+52 200 123 4567"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 8, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "2221234567",
-            "exampleInternational": "+52 2221234567"
+            "exampleInternational": "+52 222 123 4567"
           }
         }
       }
@@ -3154,20 +3388,24 @@
       "phoneMeta": {
         "countryCallingCode": "+691",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
+          "general": {
+            "possibleLengths": [7],
+            "minLength": 7,
+            "maxLength": 7
+          },
           "fixedLine": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "3201234",
-            "exampleInternational": "+691 3201234"
+            "exampleInternational": "+691 320 1234"
           },
           "mobile": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "3501234",
-            "exampleInternational": "+691 3501234"
+            "exampleInternational": "+691 350 1234"
           }
         }
       }
@@ -3181,20 +3419,24 @@
       "phoneMeta": {
         "countryCallingCode": "+373",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "22212345",
-            "exampleInternational": "+373 22212345"
+            "exampleInternational": "+373 22 212 345"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "62112345",
-            "exampleInternational": "+373 62112345"
+            "exampleInternational": "+373 621 12 345"
           }
         }
       }
@@ -3214,18 +3456,18 @@
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8],
+            "possibleLengths": [8, 9],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 9,
             "exampleNational": "99123456",
-            "exampleInternational": "+377 99123456"
+            "exampleInternational": "+377 99 12 34 56"
           },
           "mobile": {
             "possibleLengths": [8, 9],
             "minLength": 8,
             "maxLength": 9,
             "exampleNational": "612345678",
-            "exampleInternational": "+377 612345678"
+            "exampleInternational": "+377 6 12 34 56 78"
           }
         }
       }
@@ -3239,20 +3481,24 @@
       "phoneMeta": {
         "countryCallingCode": "+976",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [4, 5, 6, 8, 9, 10],
+            "minLength": 4,
+            "maxLength": 10
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [4, 5, 6, 8, 9, 10],
+            "minLength": 4,
+            "maxLength": 10,
             "exampleNational": "53123456",
-            "exampleInternational": "+976 53123456"
+            "exampleInternational": "+976 5312 3456"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [4, 5, 6, 8, 9, 10],
+            "minLength": 4,
+            "maxLength": 10,
             "exampleNational": "88123456",
-            "exampleInternational": "+976 88123456"
+            "exampleInternational": "+976 8812 3456"
           }
         }
       }
@@ -3266,20 +3512,24 @@
       "phoneMeta": {
         "countryCallingCode": "+382",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [6, 8, 9],
+            "minLength": 6,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [6, 8, 9],
+            "minLength": 6,
+            "maxLength": 9,
             "exampleNational": "30234567",
-            "exampleInternational": "+382 30234567"
+            "exampleInternational": "+382 30 234 567"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [6, 8, 9],
+            "minLength": 6,
+            "maxLength": 9,
             "exampleNational": "60123456",
-            "exampleInternational": "+382 60123456"
+            "exampleInternational": "+382 60 123 456"
           }
         }
       }
@@ -3293,20 +3543,24 @@
       "phoneMeta": {
         "countryCallingCode": "+212",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [9],
+            "minLength": 9,
+            "maxLength": 9
+          },
           "fixedLine": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "520123456",
-            "exampleInternational": "+212 520123456"
+            "exampleInternational": "+212 5 20 12 34 56"
           },
           "mobile": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "650123456",
-            "exampleInternational": "+212 650123456"
+            "exampleInternational": "+212 6 50 12 34 56"
           }
         }
       }
@@ -3326,18 +3580,18 @@
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8],
+            "possibleLengths": [8, 9],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 9,
             "exampleNational": "21123456",
-            "exampleInternational": "+258 21123456"
+            "exampleInternational": "+258 21 123 456"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [8, 9],
+            "minLength": 8,
             "maxLength": 9,
             "exampleNational": "821234567",
-            "exampleInternational": "+258 821234567"
+            "exampleInternational": "+258 82 123 4567"
           }
         }
       }
@@ -3351,18 +3605,24 @@
       "phoneMeta": {
         "countryCallingCode": "+95",
         "types": {
-          "general": { "minLength": null, "maxLength": null },
+          "general": {
+            "possibleLengths": [5, 6, 7, 8, 9, 10],
+            "minLength": 5,
+            "maxLength": 10
+          },
           "fixedLine": {
-            "minLength": null,
-            "maxLength": null,
+            "possibleLengths": [5, 6, 7, 8, 9, 10],
+            "minLength": 5,
+            "maxLength": 10,
             "exampleNational": "1234567",
-            "exampleInternational": "+95 1234567"
+            "exampleInternational": "+95 1 234 567"
           },
           "mobile": {
-            "minLength": null,
-            "maxLength": null,
+            "possibleLengths": [5, 6, 7, 8, 9, 10],
+            "minLength": 5,
+            "maxLength": 10,
             "exampleNational": "92123456",
-            "exampleInternational": "+95 92123456"
+            "exampleInternational": "+95 9 212 3456"
           }
         }
       }
@@ -3386,14 +3646,14 @@
             "minLength": 8,
             "maxLength": 9,
             "exampleNational": "61221234",
-            "exampleInternational": "+264 61221234"
+            "exampleInternational": "+264 61 221 234"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [8, 9],
+            "minLength": 8,
             "maxLength": 9,
             "exampleNational": "811234567",
-            "exampleInternational": "+264 811234567"
+            "exampleInternational": "+264 81 123 4567"
           }
         }
       }
@@ -3407,20 +3667,24 @@
       "phoneMeta": {
         "countryCallingCode": "+674",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
+          "general": {
+            "possibleLengths": [7],
+            "minLength": 7,
+            "maxLength": 7
+          },
           "fixedLine": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "4441234",
-            "exampleInternational": "+674 4441234"
+            "exampleInternational": "+674 444 1234"
           },
           "mobile": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "5551234",
-            "exampleInternational": "+674 5551234"
+            "exampleInternational": "+674 555 1234"
           }
         }
       }
@@ -3435,23 +3699,23 @@
         "countryCallingCode": "+977",
         "types": {
           "general": {
-            "possibleLengths": [8, 10],
-            "minLength": 8,
-            "maxLength": 10
+            "possibleLengths": [6, 7, 8, 10, 11],
+            "minLength": 6,
+            "maxLength": 11
           },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [6, 7, 8, 10, 11],
+            "minLength": 6,
+            "maxLength": 11,
             "exampleNational": "14567890",
-            "exampleInternational": "+977 14567890"
+            "exampleInternational": "+977 1-4567890"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [6, 7, 8, 10, 11],
+            "minLength": 6,
+            "maxLength": 11,
             "exampleNational": "9841234567",
-            "exampleInternational": "+977 9841234567"
+            "exampleInternational": "+977 984-1234567"
           }
         }
       }
@@ -3466,23 +3730,23 @@
         "countryCallingCode": "+31",
         "types": {
           "general": {
-            "possibleLengths": [9, 11],
-            "minLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11],
+            "minLength": 5,
             "maxLength": 11
           },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11],
+            "minLength": 5,
+            "maxLength": 11,
             "exampleNational": "101234567",
-            "exampleInternational": "+31 101234567"
+            "exampleInternational": "+31 10 123 4567"
           },
           "mobile": {
-            "possibleLengths": [9, 11],
-            "minLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11],
+            "minLength": 5,
             "maxLength": 11,
             "exampleNational": "612345678",
-            "exampleInternational": "+31 612345678"
+            "exampleInternational": "+31 6 12345678"
           }
         }
       }
@@ -3496,20 +3760,24 @@
       "phoneMeta": {
         "countryCallingCode": "+64",
         "types": {
-          "general": { "possibleLengths": [8, 9, 10], "minLength": 8, "maxLength": 10 },
+          "general": {
+            "possibleLengths": [5, 6, 7, 8, 9, 10],
+            "minLength": 5,
+            "maxLength": 10
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [5, 6, 7, 8, 9, 10],
+            "minLength": 5,
+            "maxLength": 10,
             "exampleNational": "32345678",
-            "exampleInternational": "+64 32345678"
+            "exampleInternational": "+64 3 234 5678"
           },
           "mobile": {
-            "possibleLengths": [8, 9, 10],
-            "minLength": 8,
+            "possibleLengths": [5, 6, 7, 8, 9, 10],
+            "minLength": 5,
             "maxLength": 10,
             "exampleNational": "211234567",
-            "exampleInternational": "+64 211234567"
+            "exampleInternational": "+64 21 123 4567"
           }
         }
       }
@@ -3523,20 +3791,24 @@
       "phoneMeta": {
         "countryCallingCode": "+505",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "21234567",
-            "exampleInternational": "+505 21234567"
+            "exampleInternational": "+505 2123 4567"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "81234567",
-            "exampleInternational": "+505 81234567"
+            "exampleInternational": "+505 8123 4567"
           }
         }
       }
@@ -3550,20 +3822,24 @@
       "phoneMeta": {
         "countryCallingCode": "+227",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "20201234",
-            "exampleInternational": "+227 20201234"
+            "exampleInternational": "+227 20 20 12 34"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "93123456",
-            "exampleInternational": "+227 93123456"
+            "exampleInternational": "+227 93 12 34 56"
           }
         }
       }
@@ -3578,23 +3854,23 @@
         "countryCallingCode": "+234",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10
+            "possibleLengths": [6, 7, 10, 11, 12, 13, 14],
+            "minLength": 6,
+            "maxLength": 14
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [6, 7, 10, 11, 12, 13, 14],
+            "minLength": 6,
+            "maxLength": 14,
             "exampleNational": "2033123456",
-            "exampleInternational": "+234 2033123456"
+            "exampleInternational": "+234 2033 12 3456"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [6, 7, 10, 11, 12, 13, 14],
+            "minLength": 6,
+            "maxLength": 14,
             "exampleNational": "8021234567",
-            "exampleInternational": "+234 8021234567"
+            "exampleInternational": "+234 802 123 4567"
           }
         }
       }
@@ -3609,23 +3885,23 @@
         "countryCallingCode": "+850",
         "types": {
           "general": {
-            "possibleLengths": [8, 10],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8, 10],
+            "minLength": 6,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [8, 10],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8, 10],
+            "minLength": 6,
             "maxLength": 10,
             "exampleNational": "21234567",
-            "exampleInternational": "+850 21234567"
+            "exampleInternational": "+850 2 123 4567"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [6, 7, 8, 10],
+            "minLength": 6,
             "maxLength": 10,
             "exampleNational": "1921234567",
-            "exampleInternational": "+850 1921234567"
+            "exampleInternational": "+850 192 123 4567"
           }
         }
       }
@@ -3639,20 +3915,24 @@
       "phoneMeta": {
         "countryCallingCode": "+389",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [6, 7, 8],
+            "minLength": 6,
+            "maxLength": 8
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8],
+            "minLength": 6,
             "maxLength": 8,
             "exampleNational": "22012345",
-            "exampleInternational": "+389 22012345"
+            "exampleInternational": "+389 2 201 2345"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8],
+            "minLength": 6,
             "maxLength": 8,
             "exampleNational": "72345678",
-            "exampleInternational": "+389 72345678"
+            "exampleInternational": "+389 72 345 678"
           }
         }
       }
@@ -3666,20 +3946,24 @@
       "phoneMeta": {
         "countryCallingCode": "+47",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [5, 8],
+            "minLength": 5,
+            "maxLength": 8
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [5, 8],
+            "minLength": 5,
             "maxLength": 8,
             "exampleNational": "21234567",
-            "exampleInternational": "+47 21234567"
+            "exampleInternational": "+47 21 23 45 67"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [5, 8],
+            "minLength": 5,
             "maxLength": 8,
             "exampleNational": "40612345",
-            "exampleInternational": "+47 40612345"
+            "exampleInternational": "+47 40 61 23 45"
           }
         }
       }
@@ -3693,20 +3977,24 @@
       "phoneMeta": {
         "countryCallingCode": "+968",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [7, 8, 9],
+            "minLength": 7,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 9],
+            "minLength": 7,
+            "maxLength": 9,
             "exampleNational": "23123456",
-            "exampleInternational": "+968 23123456"
+            "exampleInternational": "+968 23 123456"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 9],
+            "minLength": 7,
+            "maxLength": 9,
             "exampleNational": "92123456",
-            "exampleInternational": "+968 92123456"
+            "exampleInternational": "+968 9212 3456"
           }
         }
       }
@@ -3721,23 +4009,23 @@
         "countryCallingCode": "+92",
         "types": {
           "general": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
-            "maxLength": 10
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 5,
+            "maxLength": 12
           },
           "fixedLine": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
-            "maxLength": 10,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 5,
+            "maxLength": 12,
             "exampleNational": "2123456789",
-            "exampleInternational": "+92 2123456789"
+            "exampleInternational": "+92 21 23456789"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 5,
+            "maxLength": 12,
             "exampleNational": "3012345678",
-            "exampleInternational": "+92 3012345678"
+            "exampleInternational": "+92 301 2345678"
           }
         }
       }
@@ -3751,20 +4039,24 @@
       "phoneMeta": {
         "countryCallingCode": "+680",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
+          "general": {
+            "possibleLengths": [7],
+            "minLength": 7,
+            "maxLength": 7
+          },
           "fixedLine": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "2771234",
-            "exampleInternational": "+680 2771234"
+            "exampleInternational": "+680 277 1234"
           },
           "mobile": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "6201234",
-            "exampleInternational": "+680 6201234"
+            "exampleInternational": "+680 620 1234"
           }
         }
       }
@@ -3779,23 +4071,23 @@
         "countryCallingCode": "+970",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9
+            "possibleLengths": [7, 8, 9, 10],
+            "minLength": 7,
+            "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 9, 10],
+            "minLength": 7,
+            "maxLength": 10,
             "exampleNational": "22234567",
-            "exampleInternational": "+970 22234567"
+            "exampleInternational": "+970 2 223 4567"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [7, 8, 9, 10],
+            "minLength": 7,
+            "maxLength": 10,
             "exampleNational": "599123456",
-            "exampleInternational": "+970 599123456"
+            "exampleInternational": "+970 599 123 456"
           }
         }
       }
@@ -3810,23 +4102,23 @@
         "countryCallingCode": "+507",
         "types": {
           "general": {
-            "possibleLengths": [7, 8],
+            "possibleLengths": [7, 8, 10, 11],
             "minLength": 7,
-            "maxLength": 8
+            "maxLength": 11
           },
           "fixedLine": {
-            "possibleLengths": [7],
+            "possibleLengths": [7, 8, 10, 11],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 11,
             "exampleNational": "2001234",
-            "exampleInternational": "+507 2001234"
+            "exampleInternational": "+507 200-1234"
           },
           "mobile": {
-            "possibleLengths": [7, 8],
+            "possibleLengths": [7, 8, 10, 11],
             "minLength": 7,
-            "maxLength": 8,
+            "maxLength": 11,
             "exampleNational": "61234567",
-            "exampleInternational": "+507 61234567"
+            "exampleInternational": "+507 6123-4567"
           }
         }
       }
@@ -3846,18 +4138,18 @@
             "maxLength": 8
           },
           "fixedLine": {
-            "possibleLengths": [7],
+            "possibleLengths": [7, 8],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 8,
             "exampleNational": "3123456",
-            "exampleInternational": "+675 3123456"
+            "exampleInternational": "+675 312 3456"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [7, 8],
+            "minLength": 7,
             "maxLength": 8,
             "exampleNational": "70123456",
-            "exampleInternational": "+675 70123456"
+            "exampleInternational": "+675 7012 3456"
           }
         }
       }
@@ -3871,20 +4163,24 @@
       "phoneMeta": {
         "countryCallingCode": "+595",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11],
+            "minLength": 5,
+            "maxLength": 11
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11],
+            "minLength": 5,
+            "maxLength": 11,
             "exampleNational": "212345678",
-            "exampleInternational": "+595 212345678"
+            "exampleInternational": "+595 21 234 5678"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11],
+            "minLength": 5,
+            "maxLength": 11,
             "exampleNational": "961456789",
-            "exampleInternational": "+595 961456789"
+            "exampleInternational": "+595 961 456789"
           }
         }
       }
@@ -3899,23 +4195,23 @@
         "countryCallingCode": "+51",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
+            "maxLength": 9,
             "exampleNational": "11234567",
-            "exampleInternational": "+51 11234567"
+            "exampleInternational": "+51 1 1234567"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "912345678",
-            "exampleInternational": "+51 912345678"
+            "exampleInternational": "+51 912 345 678"
           }
         }
       }
@@ -3930,23 +4226,23 @@
         "countryCallingCode": "+63",
         "types": {
           "general": {
-            "possibleLengths": [6, 10],
-            "minLength": 6,
-            "maxLength": 10
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+            "minLength": 4,
+            "maxLength": 13
           },
           "fixedLine": {
-            "possibleLengths": [6],
-            "minLength": 6,
-            "maxLength": 6,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+            "minLength": 4,
+            "maxLength": 13,
             "exampleNational": "232345678",
-            "exampleInternational": "+63 232345678"
+            "exampleInternational": "+63 2 3234 5678"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+            "minLength": 4,
+            "maxLength": 13,
             "exampleNational": "9051234567",
-            "exampleInternational": "+63 9051234567"
+            "exampleInternational": "+63 905 123 4567"
           }
         }
       }
@@ -3961,23 +4257,23 @@
         "countryCallingCode": "+48",
         "types": {
           "general": {
-            "possibleLengths": [7, 9],
-            "minLength": 7,
-            "maxLength": 9
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
+            "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [7, 9],
-            "minLength": 7,
-            "maxLength": 9,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
+            "maxLength": 10,
             "exampleNational": "123456789",
-            "exampleInternational": "+48 123456789"
+            "exampleInternational": "+48 12 345 67 89"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [6, 7, 8, 9, 10],
+            "minLength": 6,
+            "maxLength": 10,
             "exampleNational": "512345678",
-            "exampleInternational": "+48 512345678"
+            "exampleInternational": "+48 512 345 678"
           }
         }
       }
@@ -3991,20 +4287,24 @@
       "phoneMeta": {
         "countryCallingCode": "+351",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [9],
+            "minLength": 9,
+            "maxLength": 9
+          },
           "fixedLine": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "212345678",
-            "exampleInternational": "+351 212345678"
+            "exampleInternational": "+351 21 234 5678"
           },
           "mobile": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "912345678",
-            "exampleInternational": "+351 912345678"
+            "exampleInternational": "+351 912 345 678"
           }
         }
       }
@@ -4018,20 +4318,24 @@
       "phoneMeta": {
         "countryCallingCode": "+974",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [7, 8, 9, 11],
+            "minLength": 7,
+            "maxLength": 11
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 9, 11],
+            "minLength": 7,
+            "maxLength": 11,
             "exampleNational": "44123456",
-            "exampleInternational": "+974 44123456"
+            "exampleInternational": "+974 4412 3456"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [7, 8, 9, 11],
+            "minLength": 7,
+            "maxLength": 11,
             "exampleNational": "33123456",
-            "exampleInternational": "+974 33123456"
+            "exampleInternational": "+974 3312 3456"
           }
         }
       }
@@ -4055,14 +4359,14 @@
             "minLength": 6,
             "maxLength": 9,
             "exampleNational": "211234567",
-            "exampleInternational": "+40 211234567"
+            "exampleInternational": "+40 21 123 4567"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [6, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "712034567",
-            "exampleInternational": "+40 712034567"
+            "exampleInternational": "+40 712 034 567"
           }
         }
       }
@@ -4077,23 +4381,23 @@
         "countryCallingCode": "+7",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10
+            "possibleLengths": [7, 10, 14],
+            "minLength": 7,
+            "maxLength": 14
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [7, 10, 14],
+            "minLength": 7,
+            "maxLength": 14,
             "exampleNational": "3011234567",
-            "exampleInternational": "+7 3011234567"
+            "exampleInternational": "+7 301 123-45-67"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [7, 10, 14],
+            "minLength": 7,
+            "maxLength": 14,
             "exampleNational": "9123456789",
-            "exampleInternational": "+7 9123456789"
+            "exampleInternational": "+7 912 345-67-89"
           }
         }
       }
@@ -4108,23 +4412,23 @@
         "countryCallingCode": "+250",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
+            "possibleLengths": [8, 9, 11, 12],
             "minLength": 8,
-            "maxLength": 9
+            "maxLength": 12
           },
           "fixedLine": {
+            "possibleLengths": [8, 9, 11, 12],
+            "minLength": 8,
+            "maxLength": 12,
+            "exampleNational": "250123456",
+            "exampleInternational": "+250 250 123 456"
+          },
+          "mobile": {
             "possibleLengths": [8, 9],
             "minLength": 8,
             "maxLength": 9,
-            "exampleNational": "250123456",
-            "exampleInternational": "+250 250123456"
-          },
-          "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
             "exampleNational": "720123456",
-            "exampleInternational": "+250 720123456"
+            "exampleInternational": "+250 720 123 456"
           }
         }
       }
@@ -4139,23 +4443,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "8692361234",
-            "exampleInternational": "+1 8692361234"
+            "exampleInternational": "+1 869-236-1234"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "8697652917",
-            "exampleInternational": "+1 8697652917"
+            "exampleInternational": "+1 869-765-2917"
           }
         }
       }
@@ -4170,23 +4474,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "7584305678",
-            "exampleInternational": "+1 7584305678"
+            "exampleInternational": "+1 758-430-5678"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "7582845678",
-            "exampleInternational": "+1 7582845678"
+            "exampleInternational": "+1 758-284-5678"
           }
         }
       }
@@ -4201,23 +4505,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "7842661234",
-            "exampleInternational": "+1 7842661234"
+            "exampleInternational": "+1 784-266-1234"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "7844301234",
-            "exampleInternational": "+1 7844301234"
+            "exampleInternational": "+1 784-430-1234"
           }
         }
       }
@@ -4237,18 +4541,18 @@
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [5, 6],
+            "possibleLengths": [5, 6, 7, 10],
             "minLength": 5,
-            "maxLength": 6,
+            "maxLength": 10,
             "exampleNational": "22123",
             "exampleInternational": "+685 22123"
           },
           "mobile": {
-            "possibleLengths": [7, 10],
-            "minLength": 7,
+            "possibleLengths": [5, 6, 7, 10],
+            "minLength": 5,
             "maxLength": 10,
             "exampleNational": "7212345",
-            "exampleInternational": "+685 7212345"
+            "exampleInternational": "+685 72 12345"
           }
         }
       }
@@ -4263,23 +4567,23 @@
         "countryCallingCode": "+378",
         "types": {
           "general": {
-            "possibleLengths": [8, 10],
-            "minLength": 8,
+            "possibleLengths": [6, 8, 10],
+            "minLength": 6,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [6, 8, 10],
+            "minLength": 6,
             "maxLength": 10,
             "exampleNational": "0549886377",
-            "exampleInternational": "+378 0549886377"
+            "exampleInternational": "+378 0549 886377"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [6, 8, 10],
+            "minLength": 6,
+            "maxLength": 10,
             "exampleNational": "66661212",
-            "exampleInternational": "+378 66661212"
+            "exampleInternational": "+378 66 66 12 12"
           }
         }
       }
@@ -4293,20 +4597,24 @@
       "phoneMeta": {
         "countryCallingCode": "+239",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
+          "general": {
+            "possibleLengths": [7],
+            "minLength": 7,
+            "maxLength": 7
+          },
           "fixedLine": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "2221234",
-            "exampleInternational": "+239 2221234"
+            "exampleInternational": "+239 222 1234"
           },
           "mobile": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "9812345",
-            "exampleInternational": "+239 9812345"
+            "exampleInternational": "+239 981 2345"
           }
         }
       }
@@ -4320,20 +4628,24 @@
       "phoneMeta": {
         "countryCallingCode": "+966",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [7, 9, 10],
+            "minLength": 7,
+            "maxLength": 10
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [7, 9, 10],
+            "minLength": 7,
+            "maxLength": 10,
             "exampleNational": "112345678",
-            "exampleInternational": "+966 112345678"
+            "exampleInternational": "+966 11 234 5678"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [7, 9, 10],
+            "minLength": 7,
+            "maxLength": 10,
             "exampleNational": "512345678",
-            "exampleInternational": "+966 512345678"
+            "exampleInternational": "+966 51 234 5678"
           }
         }
       }
@@ -4347,20 +4659,24 @@
       "phoneMeta": {
         "countryCallingCode": "+221",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [9],
+            "minLength": 9,
+            "maxLength": 9
+          },
           "fixedLine": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "301012345",
-            "exampleInternational": "+221 301012345"
+            "exampleInternational": "+221 30 101 23 45"
           },
           "mobile": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "701234567",
-            "exampleInternational": "+221 701234567"
+            "exampleInternational": "+221 70 123 45 67"
           }
         }
       }
@@ -4374,18 +4690,24 @@
       "phoneMeta": {
         "countryCallingCode": "+381",
         "types": {
-          "general": { "minLength": null, "maxLength": null },
+          "general": {
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 4,
+            "maxLength": 12
+          },
           "fixedLine": {
-            "minLength": null,
-            "maxLength": null,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 4,
+            "maxLength": 12,
             "exampleNational": "10234567",
-            "exampleInternational": "+381 10234567"
+            "exampleInternational": "+381 10 234567"
           },
           "mobile": {
-            "minLength": null,
-            "maxLength": null,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 4,
+            "maxLength": 12,
             "exampleNational": "601234567",
-            "exampleInternational": "+381 601234567"
+            "exampleInternational": "+381 60 1234567"
           }
         }
       }
@@ -4399,20 +4721,24 @@
       "phoneMeta": {
         "countryCallingCode": "+248",
         "types": {
-          "general": { "possibleLengths": [7], "minLength": 7, "maxLength": 7 },
+          "general": {
+            "possibleLengths": [7],
+            "minLength": 7,
+            "maxLength": 7
+          },
           "fixedLine": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "4217123",
-            "exampleInternational": "+248 4217123"
+            "exampleInternational": "+248 4 217 123"
           },
           "mobile": {
             "possibleLengths": [7],
             "minLength": 7,
             "maxLength": 7,
             "exampleNational": "2510123",
-            "exampleInternational": "+248 2510123"
+            "exampleInternational": "+248 2 510 123"
           }
         }
       }
@@ -4426,20 +4752,24 @@
       "phoneMeta": {
         "countryCallingCode": "+232",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [6, 8],
+            "minLength": 6,
+            "maxLength": 8
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [6, 8],
+            "minLength": 6,
             "maxLength": 8,
             "exampleNational": "22221234",
-            "exampleInternational": "+232 22221234"
+            "exampleInternational": "+232 22 221234"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [6, 8],
+            "minLength": 6,
             "maxLength": 8,
             "exampleNational": "25123456",
-            "exampleInternational": "+232 25123456"
+            "exampleInternational": "+232 25 123456"
           }
         }
       }
@@ -4453,20 +4783,24 @@
       "phoneMeta": {
         "countryCallingCode": "+65",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
-          "fixedLine": {
-            "possibleLengths": [8],
+          "general": {
+            "possibleLengths": [8, 10, 11],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 11
+          },
+          "fixedLine": {
+            "possibleLengths": [8, 10, 11],
+            "minLength": 8,
+            "maxLength": 11,
             "exampleNational": "61234567",
-            "exampleInternational": "+65 61234567"
+            "exampleInternational": "+65 6123 4567"
           },
           "mobile": {
-            "possibleLengths": [8],
+            "possibleLengths": [8, 10, 11],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 11,
             "exampleNational": "81234567",
-            "exampleInternational": "+65 81234567"
+            "exampleInternational": "+65 8123 4567"
           }
         }
       }
@@ -4490,14 +4824,14 @@
             "minLength": 6,
             "maxLength": 9,
             "exampleNational": "221234567",
-            "exampleInternational": "+421 221234567"
+            "exampleInternational": "+421 2/212 345 67"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [6, 7, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "912123456",
-            "exampleInternational": "+421 912123456"
+            "exampleInternational": "+421 912 123 456"
           }
         }
       }
@@ -4511,20 +4845,24 @@
       "phoneMeta": {
         "countryCallingCode": "+386",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [5, 6, 7, 8],
+            "minLength": 5,
+            "maxLength": 8
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [5, 6, 7, 8],
+            "minLength": 5,
             "maxLength": 8,
             "exampleNational": "12345678",
-            "exampleInternational": "+386 12345678"
+            "exampleInternational": "+386 1 234 56 78"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [5, 6, 7, 8],
+            "minLength": 5,
             "maxLength": 8,
             "exampleNational": "31234567",
-            "exampleInternational": "+386 31234567"
+            "exampleInternational": "+386 31 234 567"
           }
         }
       }
@@ -4544,9 +4882,9 @@
             "maxLength": 7
           },
           "fixedLine": {
-            "possibleLengths": [5],
+            "possibleLengths": [5, 7],
             "minLength": 5,
-            "maxLength": 5,
+            "maxLength": 7,
             "exampleNational": "40123",
             "exampleInternational": "+677 40123"
           },
@@ -4555,7 +4893,7 @@
             "minLength": 5,
             "maxLength": 7,
             "exampleNational": "7421234",
-            "exampleInternational": "+677 7421234"
+            "exampleInternational": "+677 74 21234"
           }
         }
       }
@@ -4570,23 +4908,23 @@
         "countryCallingCode": "+252",
         "types": {
           "general": {
-            "possibleLengths": [6, 7],
+            "possibleLengths": [6, 7, 8, 9],
             "minLength": 6,
-            "maxLength": 7
+            "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [6, 7],
+            "possibleLengths": [6, 7, 8, 9],
             "minLength": 6,
-            "maxLength": 7,
+            "maxLength": 9,
             "exampleNational": "4012345",
-            "exampleInternational": "+252 4012345"
+            "exampleInternational": "+252 4 012345"
           },
           "mobile": {
-            "possibleLengths": [6, 7],
+            "possibleLengths": [6, 7, 8, 9],
             "minLength": 6,
-            "maxLength": 7,
+            "maxLength": 9,
             "exampleNational": "71123456",
-            "exampleInternational": "+252 71123456"
+            "exampleInternational": "+252 7 1123456"
           }
         }
       }
@@ -4600,20 +4938,24 @@
       "phoneMeta": {
         "countryCallingCode": "+27",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [5, 6, 7, 8, 9, 10],
+            "minLength": 5,
+            "maxLength": 10
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10],
+            "minLength": 5,
+            "maxLength": 10,
             "exampleNational": "101234567",
-            "exampleInternational": "+27 101234567"
+            "exampleInternational": "+27 10 123 4567"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10],
+            "minLength": 5,
+            "maxLength": 10,
             "exampleNational": "711234567",
-            "exampleInternational": "+27 711234567"
+            "exampleInternational": "+27 71 123 4567"
           }
         }
       }
@@ -4628,23 +4970,23 @@
         "countryCallingCode": "+82",
         "types": {
           "general": {
-            "possibleLengths": [5, 6, 9, 10],
-            "minLength": 5,
-            "maxLength": 10
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+            "minLength": 4,
+            "maxLength": 14
           },
           "fixedLine": {
-            "possibleLengths": [5, 6],
-            "minLength": 5,
-            "maxLength": 6,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+            "minLength": 4,
+            "maxLength": 14,
             "exampleNational": "22123456",
-            "exampleInternational": "+82 22123456"
+            "exampleInternational": "+82 2-212-3456"
           },
           "mobile": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
-            "maxLength": 10,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+            "minLength": 4,
+            "maxLength": 14,
             "exampleNational": "1020000000",
-            "exampleInternational": "+82 1020000000"
+            "exampleInternational": "+82 10-2000-0000"
           }
         }
       }
@@ -4658,20 +5000,24 @@
       "phoneMeta": {
         "countryCallingCode": "+211",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [9],
+            "minLength": 9,
+            "maxLength": 9
+          },
           "fixedLine": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "181234567",
-            "exampleInternational": "+211 181234567"
+            "exampleInternational": "+211 181 234 567"
           },
           "mobile": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "977123456",
-            "exampleInternational": "+211 977123456"
+            "exampleInternational": "+211 977 123 456"
           }
         }
       }
@@ -4685,20 +5031,24 @@
       "phoneMeta": {
         "countryCallingCode": "+34",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [9],
+            "minLength": 9,
+            "maxLength": 9
+          },
           "fixedLine": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "810123456",
-            "exampleInternational": "+34 810123456"
+            "exampleInternational": "+34 810 12 34 56"
           },
           "mobile": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "612345678",
-            "exampleInternational": "+34 612345678"
+            "exampleInternational": "+34 612 34 56 78"
           }
         }
       }
@@ -4712,20 +5062,24 @@
       "phoneMeta": {
         "countryCallingCode": "+94",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [7, 9],
+            "minLength": 7,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "112345678",
-            "exampleInternational": "+94 112345678"
+            "exampleInternational": "+94 112 345 678"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [7, 9],
+            "minLength": 7,
             "maxLength": 9,
             "exampleNational": "712345678",
-            "exampleInternational": "+94 712345678"
+            "exampleInternational": "+94 71 234 5678"
           }
         }
       }
@@ -4739,20 +5093,24 @@
       "phoneMeta": {
         "countryCallingCode": "+249",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [9],
+            "minLength": 9,
+            "maxLength": 9
+          },
           "fixedLine": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "153123456",
-            "exampleInternational": "+249 153123456"
+            "exampleInternational": "+249 15 312 3456"
           },
           "mobile": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "911231234",
-            "exampleInternational": "+249 911231234"
+            "exampleInternational": "+249 91 123 1234"
           }
         }
       }
@@ -4772,18 +5130,18 @@
             "maxLength": 7
           },
           "fixedLine": {
-            "possibleLengths": [6],
+            "possibleLengths": [6, 7],
             "minLength": 6,
-            "maxLength": 6,
+            "maxLength": 7,
             "exampleNational": "211234",
-            "exampleInternational": "+597 211234"
+            "exampleInternational": "+597 211-234"
           },
           "mobile": {
-            "possibleLengths": [7],
-            "minLength": 7,
+            "possibleLengths": [6, 7],
+            "minLength": 6,
             "maxLength": 7,
             "exampleNational": "7412345",
-            "exampleInternational": "+597 7412345"
+            "exampleInternational": "+597 741-2345"
           }
         }
       }
@@ -4797,20 +5155,24 @@
       "phoneMeta": {
         "countryCallingCode": "+46",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [6, 7, 8, 9, 10, 12],
+            "minLength": 6,
+            "maxLength": 12
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [6, 7, 8, 9, 10, 12],
+            "minLength": 6,
+            "maxLength": 12,
             "exampleNational": "8123456",
-            "exampleInternational": "+46 8123456"
+            "exampleInternational": "+46 8 12 34 56"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [6, 7, 8, 9, 10, 12],
+            "minLength": 6,
+            "maxLength": 12,
             "exampleNational": "701234567",
-            "exampleInternational": "+46 701234567"
+            "exampleInternational": "+46 70 123 45 67"
           }
         }
       }
@@ -4824,20 +5186,24 @@
       "phoneMeta": {
         "countryCallingCode": "+41",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
-          "fixedLine": {
-            "possibleLengths": [9],
+          "general": {
+            "possibleLengths": [9, 12],
             "minLength": 9,
-            "maxLength": 9,
+            "maxLength": 12
+          },
+          "fixedLine": {
+            "possibleLengths": [9, 12],
+            "minLength": 9,
+            "maxLength": 12,
             "exampleNational": "212345678",
-            "exampleInternational": "+41 212345678"
+            "exampleInternational": "+41 21 234 56 78"
           },
           "mobile": {
-            "possibleLengths": [9],
+            "possibleLengths": [9, 12],
             "minLength": 9,
-            "maxLength": 9,
+            "maxLength": 12,
             "exampleNational": "781234567",
-            "exampleInternational": "+41 781234567"
+            "exampleInternational": "+41 78 123 45 67"
           }
         }
       }
@@ -4852,23 +5218,23 @@
         "countryCallingCode": "+963",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "112345678",
-            "exampleInternational": "+963 112345678"
+            "exampleInternational": "+963 11 234 5678"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "944567890",
-            "exampleInternational": "+963 944567890"
+            "exampleInternational": "+963 944 567 890"
           }
         }
       }
@@ -4883,23 +5249,23 @@
         "countryCallingCode": "+886",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9
+            "possibleLengths": [7, 8, 9, 10, 11],
+            "minLength": 7,
+            "maxLength": 11
           },
           "fixedLine": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9,
+            "possibleLengths": [7, 8, 9, 10, 11],
+            "minLength": 7,
+            "maxLength": 11,
             "exampleNational": "221234567",
-            "exampleInternational": "+886 221234567"
+            "exampleInternational": "+886 2 2123 4567"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [7, 8, 9, 10, 11],
+            "minLength": 7,
+            "maxLength": 11,
             "exampleNational": "912345678",
-            "exampleInternational": "+886 912345678"
+            "exampleInternational": "+886 912 345 678"
           }
         }
       }
@@ -4913,20 +5279,24 @@
       "phoneMeta": {
         "countryCallingCode": "+992",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [5, 6, 7, 9],
+            "minLength": 5,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [5, 6, 7, 9],
+            "minLength": 5,
             "maxLength": 9,
             "exampleNational": "372123456",
-            "exampleInternational": "+992 372123456"
+            "exampleInternational": "+992 372 12 3456"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [5, 6, 7, 9],
+            "minLength": 5,
             "maxLength": 9,
             "exampleNational": "917123456",
-            "exampleInternational": "+992 917123456"
+            "exampleInternational": "+992 91 712 3456"
           }
         }
       }
@@ -4940,20 +5310,24 @@
       "phoneMeta": {
         "countryCallingCode": "+255",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [9],
+            "minLength": 9,
+            "maxLength": 9
+          },
           "fixedLine": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "222345678",
-            "exampleInternational": "+255 222345678"
+            "exampleInternational": "+255 22 234 5678"
           },
           "mobile": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "621234567",
-            "exampleInternational": "+255 621234567"
+            "exampleInternational": "+255 621 234 567"
           }
         }
       }
@@ -4968,23 +5342,23 @@
         "countryCallingCode": "+66",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
+            "possibleLengths": [8, 9, 10, 13],
             "minLength": 8,
-            "maxLength": 9
+            "maxLength": 13
           },
           "fixedLine": {
-            "possibleLengths": [8],
+            "possibleLengths": [8, 9, 10, 13],
             "minLength": 8,
-            "maxLength": 8,
+            "maxLength": 13,
             "exampleNational": "21234567",
-            "exampleInternational": "+66 21234567"
+            "exampleInternational": "+66 2 123 4567"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [8, 9, 10, 13],
+            "minLength": 8,
+            "maxLength": 13,
             "exampleNational": "812345678",
-            "exampleInternational": "+66 812345678"
+            "exampleInternational": "+66 81 234 5678"
           }
         }
       }
@@ -5004,18 +5378,18 @@
             "maxLength": 8
           },
           "fixedLine": {
-            "possibleLengths": [7],
+            "possibleLengths": [7, 8],
             "minLength": 7,
-            "maxLength": 7,
+            "maxLength": 8,
             "exampleNational": "2112345",
-            "exampleInternational": "+670 2112345"
+            "exampleInternational": "+670 211 2345"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
+            "possibleLengths": [7, 8],
+            "minLength": 7,
             "maxLength": 8,
             "exampleNational": "77212345",
-            "exampleInternational": "+670 77212345"
+            "exampleInternational": "+670 7721 2345"
           }
         }
       }
@@ -5029,20 +5403,24 @@
       "phoneMeta": {
         "countryCallingCode": "+228",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "22212345",
-            "exampleInternational": "+228 22212345"
+            "exampleInternational": "+228 22 21 23 45"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "90112345",
-            "exampleInternational": "+228 90112345"
+            "exampleInternational": "+228 90 11 23 45"
           }
         }
       }
@@ -5062,18 +5440,18 @@
             "maxLength": 7
           },
           "fixedLine": {
-            "possibleLengths": [5],
+            "possibleLengths": [5, 7],
             "minLength": 5,
-            "maxLength": 5,
+            "maxLength": 7,
             "exampleNational": "20123",
-            "exampleInternational": "+676 20123"
+            "exampleInternational": "+676 20-123"
           },
           "mobile": {
-            "possibleLengths": [7],
-            "minLength": 7,
+            "possibleLengths": [5, 7],
+            "minLength": 5,
             "maxLength": 7,
             "exampleNational": "7715123",
-            "exampleInternational": "+676 7715123"
+            "exampleInternational": "+676 771 5123"
           }
         }
       }
@@ -5088,23 +5466,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "8682211234",
-            "exampleInternational": "+1 8682211234"
+            "exampleInternational": "+1 868-221-1234"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "8682911234",
-            "exampleInternational": "+1 8682911234"
+            "exampleInternational": "+1 868-291-1234"
           }
         }
       }
@@ -5118,20 +5496,24 @@
       "phoneMeta": {
         "countryCallingCode": "+216",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "30010123",
-            "exampleInternational": "+216 30010123"
+            "exampleInternational": "+216 30 010 123"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "20123456",
-            "exampleInternational": "+216 20123456"
+            "exampleInternational": "+216 20 123 456"
           }
         }
       }
@@ -5146,23 +5528,23 @@
         "countryCallingCode": "+90",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10
+            "possibleLengths": [7, 10, 12, 13],
+            "minLength": 7,
+            "maxLength": 13
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [7, 10, 12, 13],
+            "minLength": 7,
+            "maxLength": 13,
             "exampleNational": "2123456789",
-            "exampleInternational": "+90 2123456789"
+            "exampleInternational": "+90 212 345 67 89"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
-            "maxLength": 10,
+            "possibleLengths": [7, 10, 12, 13],
+            "minLength": 7,
+            "maxLength": 13,
             "exampleNational": "5012345678",
-            "exampleInternational": "+90 5012345678"
+            "exampleInternational": "+90 501 234 56 78"
           }
         }
       }
@@ -5176,20 +5558,24 @@
       "phoneMeta": {
         "countryCallingCode": "+993",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [8],
+            "minLength": 8,
+            "maxLength": 8
+          },
           "fixedLine": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "12345678",
-            "exampleInternational": "+993 12345678"
+            "exampleInternational": "+993 12 34-56-78"
           },
           "mobile": {
             "possibleLengths": [8],
             "minLength": 8,
             "maxLength": 8,
             "exampleNational": "66123456",
-            "exampleInternational": "+993 66123456"
+            "exampleInternational": "+993 66 123456"
           }
         }
       }
@@ -5209,18 +5595,18 @@
             "maxLength": 7
           },
           "fixedLine": {
-            "possibleLengths": [5],
+            "possibleLengths": [5, 6, 7],
             "minLength": 5,
-            "maxLength": 5,
+            "maxLength": 7,
             "exampleNational": "20123",
-            "exampleInternational": "+688 20123"
+            "exampleInternational": "+688 20 123"
           },
           "mobile": {
-            "possibleLengths": [6, 7],
-            "minLength": 6,
+            "possibleLengths": [5, 6, 7],
+            "minLength": 5,
             "maxLength": 7,
             "exampleNational": "901234",
-            "exampleInternational": "+688 901234"
+            "exampleInternational": "+688 90 1234"
           }
         }
       }
@@ -5234,20 +5620,24 @@
       "phoneMeta": {
         "countryCallingCode": "+256",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [5, 6, 7, 9],
+            "minLength": 5,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [5, 6, 7, 9],
+            "minLength": 5,
             "maxLength": 9,
             "exampleNational": "312345678",
-            "exampleInternational": "+256 312345678"
+            "exampleInternational": "+256 31 2345678"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [5, 6, 7, 9],
+            "minLength": 5,
             "maxLength": 9,
             "exampleNational": "712345678",
-            "exampleInternational": "+256 712345678"
+            "exampleInternational": "+256 712 345678"
           }
         }
       }
@@ -5261,20 +5651,24 @@
       "phoneMeta": {
         "countryCallingCode": "+380",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [5, 6, 7, 9, 10],
+            "minLength": 5,
+            "maxLength": 10
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 9, 10],
+            "minLength": 5,
+            "maxLength": 10,
             "exampleNational": "311234567",
-            "exampleInternational": "+380 311234567"
+            "exampleInternational": "+380 3112 34567"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 9, 10],
+            "minLength": 5,
+            "maxLength": 10,
             "exampleNational": "501234567",
-            "exampleInternational": "+380 501234567"
+            "exampleInternational": "+380 50 123 4567"
           }
         }
       }
@@ -5289,23 +5683,23 @@
         "countryCallingCode": "+971",
         "types": {
           "general": {
-            "possibleLengths": [8, 9],
-            "minLength": 8,
-            "maxLength": 9
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 5,
+            "maxLength": 12
           },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 5,
+            "maxLength": 12,
             "exampleNational": "22345678",
-            "exampleInternational": "+971 22345678"
+            "exampleInternational": "+971 2 234 5678"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [5, 6, 7, 8, 9, 10, 11, 12],
+            "minLength": 5,
+            "maxLength": 12,
             "exampleNational": "501234567",
-            "exampleInternational": "+971 501234567"
+            "exampleInternational": "+971 50 123 4567"
           }
         }
       }
@@ -5320,23 +5714,23 @@
         "countryCallingCode": "+44",
         "types": {
           "general": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10],
+            "minLength": 4,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10],
+            "minLength": 4,
             "maxLength": 10,
             "exampleNational": "1212345678",
-            "exampleInternational": "+44 1212345678"
+            "exampleInternational": "+44 121 234 5678"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10],
+            "minLength": 4,
             "maxLength": 10,
             "exampleNational": "7400123456",
-            "exampleInternational": "+44 7400123456"
+            "exampleInternational": "+44 7400 123456"
           }
         }
       }
@@ -5351,23 +5745,23 @@
         "countryCallingCode": "+1",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "2015550123",
-            "exampleInternational": "+1 2015550123"
+            "exampleInternational": "+1 201-555-0123"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "2015550123",
-            "exampleInternational": "+1 2015550123"
+            "exampleInternational": "+1 201-555-0123"
           }
         }
       }
@@ -5381,20 +5775,24 @@
       "phoneMeta": {
         "countryCallingCode": "+598",
         "types": {
-          "general": { "possibleLengths": [8], "minLength": 8, "maxLength": 8 },
+          "general": {
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+            "minLength": 4,
+            "maxLength": 13
+          },
           "fixedLine": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+            "minLength": 4,
+            "maxLength": 13,
             "exampleNational": "21231234",
-            "exampleInternational": "+598 21231234"
+            "exampleInternational": "+598 2123 1234"
           },
           "mobile": {
-            "possibleLengths": [8],
-            "minLength": 8,
-            "maxLength": 8,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+            "minLength": 4,
+            "maxLength": 13,
             "exampleNational": "94231234",
-            "exampleInternational": "+598 94231234"
+            "exampleInternational": "+598 94 231 234"
           }
         }
       }
@@ -5408,20 +5806,24 @@
       "phoneMeta": {
         "countryCallingCode": "+998",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [9],
+            "minLength": 9,
+            "maxLength": 9
+          },
           "fixedLine": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "669050123",
-            "exampleInternational": "+998 669050123"
+            "exampleInternational": "+998 66 905 01 23"
           },
           "mobile": {
             "possibleLengths": [9],
             "minLength": 9,
             "maxLength": 9,
             "exampleNational": "912345678",
-            "exampleInternational": "+998 912345678"
+            "exampleInternational": "+998 91 234 56 78"
           }
         }
       }
@@ -5441,18 +5843,18 @@
             "maxLength": 7
           },
           "fixedLine": {
-            "possibleLengths": [5],
+            "possibleLengths": [5, 7],
             "minLength": 5,
-            "maxLength": 5,
+            "maxLength": 7,
             "exampleNational": "22123",
             "exampleInternational": "+678 22123"
           },
           "mobile": {
-            "possibleLengths": [7],
-            "minLength": 7,
+            "possibleLengths": [5, 7],
+            "minLength": 5,
             "maxLength": 7,
             "exampleNational": "5912345",
-            "exampleInternational": "+678 5912345"
+            "exampleInternational": "+678 591 2345"
           }
         }
       }
@@ -5467,23 +5869,23 @@
         "countryCallingCode": "+39",
         "types": {
           "general": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
-            "maxLength": 10
+            "possibleLengths": [6, 7, 8, 9, 10, 11, 12],
+            "minLength": 6,
+            "maxLength": 12
           },
           "fixedLine": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
-            "maxLength": 10,
+            "possibleLengths": [6, 7, 8, 9, 10, 11, 12],
+            "minLength": 6,
+            "maxLength": 12,
             "exampleNational": "0669812345",
-            "exampleInternational": "+39 0669812345"
+            "exampleInternational": "+39 06 6981 2345"
           },
           "mobile": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
-            "maxLength": 10,
+            "possibleLengths": [6, 7, 8, 9, 10, 11, 12],
+            "minLength": 6,
+            "maxLength": 12,
             "exampleNational": "3123456789",
-            "exampleInternational": "+39 3123456789"
+            "exampleInternational": "+39 312 345 6789"
           }
         }
       }
@@ -5498,23 +5900,23 @@
         "countryCallingCode": "+58",
         "types": {
           "general": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "2121234567",
-            "exampleInternational": "+58 2121234567"
+            "exampleInternational": "+58 212-1234567"
           },
           "mobile": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "4121234567",
-            "exampleInternational": "+58 4121234567"
+            "exampleInternational": "+58 412-1234567"
           }
         }
       }
@@ -5529,23 +5931,23 @@
         "countryCallingCode": "+84",
         "types": {
           "general": {
-            "possibleLengths": [9, 10],
-            "minLength": 9,
+            "possibleLengths": [7, 8, 9, 10],
+            "minLength": 7,
             "maxLength": 10
           },
           "fixedLine": {
-            "possibleLengths": [10],
-            "minLength": 10,
+            "possibleLengths": [7, 8, 9, 10],
+            "minLength": 7,
             "maxLength": 10,
             "exampleNational": "2101234567",
-            "exampleInternational": "+84 2101234567"
+            "exampleInternational": "+84 210 1234 567"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [7, 8, 9, 10],
+            "minLength": 7,
+            "maxLength": 10,
             "exampleNational": "912345678",
-            "exampleInternational": "+84 912345678"
+            "exampleInternational": "+84 912 345 678"
           }
         }
       }
@@ -5560,23 +5962,23 @@
         "countryCallingCode": "+967",
         "types": {
           "general": {
-            "possibleLengths": [7, 8, 9],
-            "minLength": 7,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
             "maxLength": 9
           },
           "fixedLine": {
-            "possibleLengths": [7, 8],
-            "minLength": 7,
-            "maxLength": 8,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
+            "maxLength": 9,
             "exampleNational": "1234567",
-            "exampleInternational": "+967 1234567"
+            "exampleInternational": "+967 1 234 567"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [6, 7, 8, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "712345678",
-            "exampleInternational": "+967 712345678"
+            "exampleInternational": "+967 712 345 678"
           }
         }
       }
@@ -5590,20 +5992,24 @@
       "phoneMeta": {
         "countryCallingCode": "+260",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [6, 9],
+            "minLength": 6,
+            "maxLength": 9
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [6, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "211234567",
-            "exampleInternational": "+260 211234567"
+            "exampleInternational": "+260 211 234 567"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
+            "possibleLengths": [6, 9],
+            "minLength": 6,
             "maxLength": 9,
             "exampleNational": "955123456",
-            "exampleInternational": "+260 955123456"
+            "exampleInternational": "+260 95 5123456"
           }
         }
       }
@@ -5617,20 +6023,24 @@
       "phoneMeta": {
         "countryCallingCode": "+263",
         "types": {
-          "general": { "possibleLengths": [9], "minLength": 9, "maxLength": 9 },
+          "general": {
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10],
+            "minLength": 4,
+            "maxLength": 10
+          },
           "fixedLine": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10],
+            "minLength": 4,
+            "maxLength": 10,
             "exampleNational": "1312345",
-            "exampleInternational": "+263 1312345"
+            "exampleInternational": "+263 13 12345"
           },
           "mobile": {
-            "possibleLengths": [9],
-            "minLength": 9,
-            "maxLength": 9,
+            "possibleLengths": [4, 5, 6, 7, 8, 9, 10],
+            "minLength": 4,
+            "maxLength": 10,
             "exampleNational": "712345678",
-            "exampleInternational": "+263 712345678"
+            "exampleInternational": "+263 71 234 5678"
           }
         }
       }
