@@ -1,2 +1,8 @@
 .DS_Store
 /flags/unsupported
+
+node_modules
+package-lock.json
+package.json
+
+fix-json.js
